@@ -5,7 +5,6 @@ void solve_test()
 {
     string s;
     cin >> s;
-
     
     for(int i=0; i<s.size(); i++)
     {
@@ -23,13 +22,11 @@ void solve_test()
 
 int main()
 {
-    int t=1; 
-    cin >> t; 
+    unsigned long int test_cases; 
+    cin >> test_cases; 
     
-    for(int i=0; i<t; i++)
-    {
+    while(test_cases--)
         solve_test();
-    }
-	
+
 	return 0;
 }

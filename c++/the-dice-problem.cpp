@@ -11,13 +11,10 @@ void solve_test()
 
 int main()
 {
-    int t; 
-    cin >> t; 
+    unsigned long int test_cases; 
+    cin >> test_cases; 
     
-    for(int i=0; i<t; i++)
-    {
+    while(test_cases)
         solve_test();
-    }
-	
 	return 0;
 }

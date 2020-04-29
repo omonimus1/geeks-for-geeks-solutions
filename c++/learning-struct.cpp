@@ -4,7 +4,6 @@
 */
 struct Node
 {
-    //Linked list has data and next members
     int data; 
     Node *next; 
 };

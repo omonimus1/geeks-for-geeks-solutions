@@ -23,11 +23,9 @@ void solve_test()
 
 int main()
  {
-	short int t;
-	cin >>t;
-	for(int i =0; i<t; i++)
-	{
+	short int test_cases;
+	cin >>test_cases;
+	while(test_cases--)
 	    solve_test();
-	}
 	return 0;
 }

@@ -1,5 +1,5 @@
 // https://practice.geeksforgeeks.org/problems/last-index-of-1/0
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 void solve_test()
@@ -20,10 +20,7 @@ int main()
     int t; 
     cin >> t; 
     
-    for(int i=0; i<t; i++)
-    {
+    while(t--)
         solve_test();
-    }
-	
 	return 0;
 }
