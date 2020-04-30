@@ -28,14 +28,16 @@ If you have any questions about the solutions you can find here, feel free to co
 * [Programming foundamental](#Programming-foundamentals)
 * [Array](#Array-or-Vector)
 * [Vectors](#Array-or-Vector)
+* [Sorting](#Sorting)
 * [String](#Strings)
 * [Matrix](#Matrix)
 * [Linked List](#Linked-List)
 * [Stack](#Stack)
-* [Queue](#Queue)
+* [Queue](#Queue-and-Dequeu)
 * [Binary Search](#Binary-Search)
 * [Binary Search Tree](#Binary-Search-Tree)
 * [Math](#Math)
+* [Prime Numbers](#Prime-numbers)
 
 ## Algorithms and Data structures : Soon online
 
@@ -45,7 +47,6 @@ If you have any questions about the solutions you can find here, feel free to co
 * Hash Table
 * Math
 * Two Pointers
-* Sort
 * Recursion
 * Breadth-First Search
 * Depth-First Search
@@ -59,17 +60,20 @@ If you have any questions about the solutions you can find here, feel free to co
 
 |    Name  |  Solution        |
 |----------|:----------------:|
-|Step-by-step-condition|[C++](c++/step-by-step-condition.cpp)|
-|Learn to Comment|[C++](c++/learn-to-comment.cpp)|
-|Swap the objects|[C++](c++/swap-the-objects.cpp)|
-|While Loop print table|[C++](c++/while-loop-print-table.cpp)|
 |Data types in Java|[Java](java/data-types-java.java)|
 |Start coding|[Java](java/start-coding.java)|
 |The new line|[Java](java/the-new-line.java)|
+|Java Inheritance|[Java](java/java-inheritance.java)|
 |Hello Word-python|[Python](python/hello-world.py)|
 |Repeatitive printing-python|[Python](python/repeatitive-printing.py)|
 |Sep and End|[Python](python/sep-and-end-in-print.py)|
 |Sep -Space separate|[Python](python/space-separate.py)|
+|Step-by-step-condition|[C++](c++/step-by-step-condition.cpp)|
+|Learn to Comment|[C++](c++/learn-to-comment.cpp)|
+|Swap the objects|[C++](c++/swap-the-objects.cpp)|
+|While Loop print table|[C++](c++/while-loop-print-table.cpp)|
+
+
 
 ## Array or Vector
 
@@ -82,7 +86,17 @@ If you have any questions about the solutions you can find here, feel free to co
 |pair-sum-in-vector|[C++](c++/pair-sum-vector.cpp)|
 |rotate-array-by-n-elements|[C++](c++/rotate-array-by-n-element.cpp)|
 |Sort and Reverse|[C++](c++/sort-and-reverse.cpp)|
-|STL vector|[C++](c++/.cpp)|
+|Back to front|[C++](c++/back-to-front.cpp)|
+|Front to back|[C++](c++/front-to-back.cpp)|
+||[]()|
+
+
+## Sorting
+
+|    Name  |  Solution        |
+|----------|:----------------:|
+|Maximum product of two numbers|[C++](c++/maximum-product-of-tw-numbers.cpp)|
+
 
 ## Matrix
 
@@ -96,13 +110,13 @@ If you have any questions about the solutions you can find here, feel free to co
 
 |   Name       |  Solution|
 |----------|:----------------:|
-|String validation |[solution.py](python/string/string_validation.py)|
-|Hello World|[solution.py](python/helloworld.py)|
+|String validation |[Python](python/string/string_validation.py)|
+|Hello World|[Python](python/helloworld.py)|
+|Contatenate String python|[python](python/concatenating-string.py)|
 |Is Isogram|[C++](c++/isIsogram.cpp)|
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
 |Repeated chars|[C++](c++/repeate-char.cpp)|
 |Sort string|[C++](c++/sort-string.cpp)|
-|Contatenate String python|[python](python/concatenating-string.py)|
 ||[]()|
 
 ## Linked List
@@ -123,12 +137,14 @@ If you have any questions about the solutions you can find here, feel free to co
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Stack designer|[C++](c++/stack-designer.cpp)|
-
-## Queue
+Prime-numbers
+## Queue and Dequeu
 
 |    Name  |  Solution        |
 |----------|:----------------:|
-|Queue Designer|[C++](c++/queue-designer.cpp)|
+|Queue Designer - Queue Push & Pop|[C++](c++/queue-designer.cpp)|
+|Dequeu implementation|[C++](c++/deque-implementation.cpp)|
+
 
 ## Binary Search
 
@@ -144,6 +160,12 @@ If you have any questions about the solutions you can find here, feel free to co
 |Min in BST|[C++](c++/min-in-BST.cpp)|
 |Search Element in BST|[C++](c++/search-element-in-bst.cpp)|
 |search-a-node-in-bst|[C++](c++/search-node-bst.cpp)|
+|Size of a binary tree|[C++](c++/size-of-binary-tree.cpp)|
+|Inorder traversal|[C++](c++/inorder-traversal.cpp)|
+|Preorder traversal|[C++](c++/preoder-traversal.cpp)|
+|Postorder traversal|[C++](c++/postorder-traversal.cpp)|
+| |[C++](c++/.cpp)|
+| |[C++](c++/.cpp)|
 
 ## Math
 
@@ -157,6 +179,9 @@ If you have any questions about the solutions you can find here, feel free to co
 |Strong numbers|[C++](c++/strong-number.cpp)|
 |the-dice-problem|[C++](c++/the-dice-problem.cpp)|
 
+
+
+
 # SOON ONLINE
 
 ## Bit Manipulation
@@ -166,6 +191,11 @@ If you have any questions about the solutions you can find here, feel free to co
 ## Depth-First Search
 
 ## Backtracking
+
+# Prime numbers
+|    Name  |  Solution        |
+|----------|:----------------:|
+| |[C++](c++/)|
 
 ## Dynamic Programming
 
@@ -181,11 +211,13 @@ If you have any questions about the solutions you can find here, feel free to co
 
 ## Two Pointers
 
-## Sort
-
 ## Recursion
 
 
+## Lets' connects
 
+* [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20CompetitiveProgrammigGuide)
+* [Linkedin](https://www.linkedin.com/in/davidepollicino7/)
+* [www.davidepollicino.com](http://davidepollicino.com/)
 
 
