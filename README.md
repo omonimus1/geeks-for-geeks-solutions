@@ -88,7 +88,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |Sort and Reverse|[C++](c++/sort-and-reverse.cpp)|
 |Back to front|[C++](c++/back-to-front.cpp)|
 |Front to back|[C++](c++/front-to-back.cpp)|
-||[]()|
+
 
 
 ## Sorting
@@ -106,6 +106,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |Transpose matrix|[C++](c++/transpose-of-matrix.cpp)|
 |two-dimensional-world|[C++](c++/two-dimensionalworld.cpp)|
 
+
 ## Strings
 
 |   Name       |  Solution|
@@ -116,8 +117,9 @@ If you have any questions about the solutions you can find here, feel free to co
 |Is Isogram|[C++](c++/isIsogram.cpp)|
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
 |Repeated chars|[C++](c++/repeate-char.cpp)|
-|Sort string|[C++](c++/sort-string.cpp)|
-||[]()|
+|String sort (Using Quick-sort)-|[C++](c++/strin.quicksort.cpp)|
+
+
 
 ## Linked List
 
@@ -131,13 +133,17 @@ If you have any questions about the solutions you can find here, feel free to co
 |Middle Element|[C++](c++/middle-element-linkedlist.cpp)|
 |Node at the given position|[C++](c++/node-at-given-pos-linked-list.cpp)|
 |Print linked list|[C++](c++/print-linked-list.cpp)|
+|Find sum of last N nodes|[C++](c++/sum-last-n-nodes.cpp)|
+|Circular Linked List|[C++](c++/circular-linked-list.cpp)|
+
 
 ## Stack
 
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Stack designer|[C++](c++/stack-designer.cpp)|
-Prime-numbers
+
+
 ## Queue and Dequeu
 
 |    Name  |  Solution        |
@@ -163,9 +169,12 @@ Prime-numbers
 |Size of a binary tree|[C++](c++/size-of-binary-tree.cpp)|
 |Inorder traversal|[C++](c++/inorder-traversal.cpp)|
 |Preorder traversal|[C++](c++/preoder-traversal.cpp)|
-|Postorder traversal|[C++](c++/postorder-traversal.cpp)|
-| |[C++](c++/.cpp)|
-| |[C++](c++/.cpp)|
+|Postorder traversal|[C++](c++/postorder-traversal.cpp)|#
+|Are two trees equals|[C++](c++/two-tree-are-identical.cpp)|
+
+
+
+
 
 ## Math
 
