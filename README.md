@@ -34,8 +34,9 @@ If you have any questions about the solutions you can find here, feel free to co
 * [Linked List](#Linked-List)
 * [Stack](#Stack)
 * [Queue](#Queue-and-Dequeu)
+* [Set and Multiset](#Set)
 * [Binary Search](#Binary-Search)
-* [Binary Search Tree](#Binary-Search-Tree)
+* [Tree and BST](#Tree-and-Binary-Search-Tree)
 * [Math](#Math)
 * [Prime Numbers](#Prime-numbers)
 
@@ -96,6 +97,8 @@ If you have any questions about the solutions you can find here, feel free to co
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Maximum product of two numbers|[C++](c++/maximum-product-of-tw-numbers.cpp)|
+|Count the zeros|[C++](c++/counte-the-zeros.cpp)|
+
 
 
 ## Matrix
@@ -142,6 +145,8 @@ If you have any questions about the solutions you can find here, feel free to co
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Stack designer|[C++](c++/stack-designer.cpp)|
+|Reverse string using Stack|[C++](c++/reverse-string-with-stack.cpp)|
+
 
 
 ## Queue and Dequeu
@@ -152,13 +157,21 @@ If you have any questions about the solutions you can find here, feel free to co
 |Dequeu implementation|[C++](c++/deque-implementation.cpp)|
 
 
+## Set
+
+|    Name  |  Solution        |
+|----------|:----------------:|
+|Set operations|[C++](c++/set-operations.cpp)|
+|Multiset Operator|[C++](c++/multiset-operator.cpp)|
+
+
 ## Binary Search
 
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Binary Search |[C++](c++/bin-search.cpp)|
 
-## Binary Search Tree
+## Tree-and-Binary-Search-Tree
 
 |    Name  |  Solution        |
 |----------|:----------------:|
@@ -169,8 +182,9 @@ If you have any questions about the solutions you can find here, feel free to co
 |Size of a binary tree|[C++](c++/size-of-binary-tree.cpp)|
 |Inorder traversal|[C++](c++/inorder-traversal.cpp)|
 |Preorder traversal|[C++](c++/preoder-traversal.cpp)|
-|Postorder traversal|[C++](c++/postorder-traversal.cpp)|#
+|Postorder traversal|[C++](c++/postorder-traversal.cpp)|
 |Are two trees equals|[C++](c++/two-tree-are-identical.cpp)|
+|Sum of Binary Tree|[C++](c++/sum-of-binary-tree.cpp)|
 
 
 
@@ -187,6 +201,9 @@ If you have any questions about the solutions you can find here, feel free to co
 |find-prime-numbers-in-a-range|[C++](c++/prime-numbers-in-range.cpp)|
 |Strong numbers|[C++](c++/strong-number.cpp)|
 |the-dice-problem|[C++](c++/the-dice-problem.cpp)|
+|for-loop-prime-check|[Java](java/for-loop-prime-check.java)|
+
+
 
 
 
