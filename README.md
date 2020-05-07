@@ -6,23 +6,7 @@ My solutions to algorithmic problems in [Geeks for Geeks](https://auth.geeksforg
 
 ## What you can find in this repository
 
-I have solved quite a number of problems from several topics. See the below table for further details.
-
-## How to contribute?
-1. Fork the repository
-2. Do the desired changes (add/delete/modify)
-3. Make a pull request
-
-## When to contribute?
-1. If there is no solution to a problem in the main branch.
-2. If your solution is asymptotically faster than the one in the main branch.
-3. If your algorithm is of the same time complexity but with reduced code size. In this case, comment out the original solution and make a pull request with your solution.
-4. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the main file and make a pull request.
-
-## Mind that
-Constructive criticisms or code reviews of any kind are very much welcome.
-
-If you have any questions about the solutions you can find here, feel free to contact me at: [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20GeeksForGeeks)
+I have solved quite a number of problems from several topics. See the below tables for further details.
 
 ## Algorithms and Data structures : Available
 * [Programming foundamental](#Programming-foundamentals)
@@ -39,6 +23,12 @@ If you have any questions about the solutions you can find here, feel free to co
 * [Tree and BST](#Tree-and-Binary-Search-Tree)
 * [Math](#Math)
 * [Prime Numbers](#Prime-numbers)
+
+## Mind that
+Constructive criticisms or code reviews of any kind are very much welcome.
+
+If you have any questions about the solutions you can find here, feel free to contact me at: [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20GeeksForGeeks)
+
 
 ## Algorithms and Data structures : Soon online
 
@@ -65,6 +55,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |Start coding|[Java](java/start-coding.java)|
 |The new line|[Java](java/the-new-line.java)|
 |Java Inheritance|[Java](java/java-inheritance.java)|
+|Even-odd in Java|[Java](java/even-odd.java)|
 |Hello Word-python|[Python](python/hello-world.py)|
 |Repeatitive printing-python|[Python](python/repeatitive-printing.py)|
 |Sep and End|[Python](python/sep-and-end-in-print.py)|
@@ -81,6 +72,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Count Evens and odds|[C++](c++/count-odd-even.cpp)|
+|Sort array os 0s, 1 and 2s|[C++](c++/sort-arrays-of-0-and-1.cpp)|
 |Need some change|[C++](c++/need-some-chage.cpp)|
 |Find the frequency|[C++](c++/find-the-frequency.cpp)|
 |Immediate smaller element|[C++](c++/immediate-smaller-element.cpp)|
@@ -108,6 +100,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |Count zeros|[C++](c++/count-zeros.cpp)|
 |Transpose matrix|[C++](c++/transpose-of-matrix.cpp)|
 |two-dimensional-world|[C++](c++/two-dimensionalworld.cpp)|
+|Rotate Matrix of 90 degrees|[C++](c++/rotate-matrix-of-90-degrees.cpp)|
 
 
 ## Strings
@@ -187,13 +180,11 @@ If you have any questions about the solutions you can find here, feel free to co
 |Sum of Binary Tree|[C++](c++/sum-of-binary-tree.cpp)|
 
 
-
-
-
 ## Math
 
 |    Name  |  Solution        |
 |----------|:----------------:|
+|Count numbers divisible by M|[C++](c++/count-numbers-divisible-by-m.cpp)|
 |armstrong-numbers|[C++](c++/ambstrong.cpp)|
 |automorphic numbers|[C++](c++/automorphic-number.cpp)|
 |For loop prime check|[C++](c++/for-loop-prime-check.cpp)|
@@ -202,6 +193,8 @@ If you have any questions about the solutions you can find here, feel free to co
 |Strong numbers|[C++](c++/strong-number.cpp)|
 |the-dice-problem|[C++](c++/the-dice-problem.cpp)|
 |for-loop-prime-check|[Java](java/for-loop-prime-check.java)|
+|Sum digits of a number|[Python](python/sum_to_digits.py)|
+
 
 
 
@@ -212,16 +205,8 @@ If you have any questions about the solutions you can find here, feel free to co
 
 ## Bit Manipulation
 
-## Breadth-First Search
-
-## Depth-First Search
-
 ## Backtracking
 
-# Prime numbers
-|    Name  |  Solution        |
-|----------|:----------------:|
-| |[C++](c++/)|
 
 ## Dynamic Programming
 
@@ -231,14 +216,18 @@ If you have any questions about the solutions you can find here, feel free to co
 
 ## Heap
 
-## Tree
-
-## Hash Table
-
 ## Two Pointers
 
-## Recursion
+## How to contribute?
+1. Fork the repository
+2. Do the desired changes (add/delete/modify)
+3. Make a pull request
 
+## When to contribute?
+1. If there is no solution to a problem in the main branch.
+2. If your solution is asymptotically faster than the one in the main branch.
+3. If your algorithm is of the same time complexity but with reduced code size. In this case, comment out the original solution and make a pull request with your solution.
+4. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the main file and make a pull request.
 
 ## Lets' connects
 
