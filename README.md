@@ -90,6 +90,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |----------|:----------------:|
 |Maximum product of two numbers|[C++](c++/maximum-product-of-tw-numbers.cpp)|
 |Count the zeros|[C++](c++/counte-the-zeros.cpp)|
+|Rotate Matrix by 90 degrees- clowise|[C++](c++/rotate-matrixe-clowise.cpp)|
 
 
 
