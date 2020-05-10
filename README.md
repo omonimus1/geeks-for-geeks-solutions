@@ -24,28 +24,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 * [Math](#Math)
 * [Prime Numbers](#Prime-numbers)
 
-## Mind that
-Constructive criticisms or code reviews of any kind are very much welcome.
-
-If you have any questions about the solutions you can find here, feel free to contact me at: [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20GeeksForGeeks)
-
-
-## Algorithms and Data structures : Soon online
-
-* Bit Manipulation
-* Heap
-* Tree
-* Hash Table
-* Math
-* Two Pointers
-* Recursion
-* Breadth-First Search
-* Depth-First Search
-* Backtracking
-* Dynamic Programming
-* Greedy
-* Graph
-
 
 ## Programming foundamentals
 
@@ -81,6 +59,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |Sort and Reverse|[C++](c++/sort-and-reverse.cpp)|
 |Back to front|[C++](c++/back-to-front.cpp)|
 |Front to back|[C++](c++/front-to-back.cpp)|
+|Find immediate smaller than X|[C++](c++/find_immediate_smaller_than_x.cpp)|
 
 
 
@@ -90,6 +69,8 @@ If you have any questions about the solutions you can find here, feel free to co
 |----------|:----------------:|
 |Maximum product of two numbers|[C++](c++/maximum-product-of-tw-numbers.cpp)|
 |Count the zeros|[C++](c++/counte-the-zeros.cpp)|
+|Bubble sort|[C++](c++/bubble_sort.cpp)|
+
 |Rotate Matrix by 90 degrees- clowise|[C++](c++/rotate-matrixe-clowise.cpp)|
 
 
@@ -179,6 +160,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |Postorder traversal|[C++](c++/postorder-traversal.cpp)|
 |Are two trees equals|[C++](c++/two-tree-are-identical.cpp)|
 |Sum of Binary Tree|[C++](c++/sum-of-binary-tree.cpp)|
+|K distance from root|[C++](c++/k_distance_from_root.cpp)|
 
 
 ## Math
@@ -237,3 +219,23 @@ If you have any questions about the solutions you can find here, feel free to co
 * [www.davidepollicino.com](http://davidepollicino.com/)
 
 
+## Algorithms and Data structures : Soon online
+
+* Bit Manipulation
+* Heap
+* Tree
+* Hash Table
+* Math
+* Two Pointers
+* Recursion
+* Breadth-First Search
+* Depth-First Search
+* Backtracking
+* Dynamic Programming
+* Greedy
+* Graph
+
+## Mind that
+Constructive criticisms or code reviews of any kind are very much welcome.
+
+If you have any questions about the solutions you can find here, feel free to contact me at: [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20GeeksForGeeks)
