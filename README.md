@@ -113,6 +113,9 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Print linked list|[C++](c++/print-linked-list.cpp)|
 |Find sum of last N nodes|[C++](c++/sum-last-n-nodes.cpp)|
 |Circular Linked List|[C++](c++/circular-linked-list.cpp)|
+|Reverse a Linked List|[C++](c++/reverse_linked_list.cpp)|
+|Detect a loop|[C++](c++/detect_loop.cpp)|
+|Remove loop from Linked List|[C++](c++/remove loop from linked list.cpp)|
 
 
 ## Stack
