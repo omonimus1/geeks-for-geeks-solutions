@@ -19,8 +19,10 @@ I have solved quite a number of problems from several topics. See the below tabl
 * [Stack](#Stack)
 * [Queue](#Queue-and-Dequeu)
 * [Set and Multiset](#Set)
+* [Heap](#Heap)
 * [Binary Search](#Binary-Search)
 * [Tree and BST](#Tree-and-Binary-Search-Tree)
+* [Graph](#Graph)
 * [Math](#Math)
 * [Prime Numbers](#Prime-numbers)
 
@@ -60,7 +62,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Back to front|[C++](c++/back-to-front.cpp)|
 |Front to back|[C++](c++/front-to-back.cpp)|
 |Find immediate smaller than X|[C++](c++/find_immediate_smaller_than_x.cpp)|
-
+|Kth Smallest Element|[C++](c++/kth-smallest-number.cpp)|
 
 
 ## Sorting
@@ -144,6 +146,12 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Multiset Operator|[C++](c++/multiset-operator.cpp)|
 
 
+## Heap
+
+|    Name  |  Solution        |
+|----------|:----------------:|
+|K-largest-elements|[C++](c++/k-larghest-elements.cpp)|
+
 ## Binary Search
 
 |    Name  |  Solution        |
@@ -166,6 +174,10 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Sum of Binary Tree|[C++](c++/sum-of-binary-tree.cpp)|
 |K distance from root|[C++](c++/k_distance_from_root.cpp)|
 
+## Graph
+|    Name  |  Solution        |
+|----------|:----------------:|
+|Sum of depenncies in a graph |[C++](c++/sum_of_depencies.cpp)|
 
 ## Math
 
@@ -199,22 +211,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 * [Linkedin](https://www.linkedin.com/in/davidepollicino7/)
 * [www.davidepollicino.com](http://davidepollicino.com/)
 
-
-## Algorithms and Data structures : Soon online
-
-* Bit Manipulation
-* Heap
-* Tree
-* Hash Table
-* Math
-* Two Pointers
-* Recursion
-* Breadth-First Search
-* Depth-First Search
-* Backtracking
-* Dynamic Programming
-* Greedy
-* Graph
 
 ## Mind that
 Constructive criticisms or code reviews of any kind are very much welcome.
