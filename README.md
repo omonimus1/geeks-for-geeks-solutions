@@ -8,7 +8,7 @@ My solutions to algorithmic problems in [Geeks for Geeks](https://auth.geeksforg
 
 I have solved quite a number of problems from several topics. See the below tables for further details.
 
-## Algorithms and Data structures : Available
+## Algorithms and Data structures
 * [Programming foundamental](#Programming-foundamentals)
 * [Array](#Array-or-Vector)
 * [Vectors](#Array-or-Vector)
@@ -95,7 +95,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Is Isogram|[C++](c++/isIsogram.cpp)|
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
 |Repeated chars|[C++](c++/repeate-char.cpp)|
-|String sort (Using Quick-sort)-|[C++](c++/strin.quicksort.cpp)|
+|String sort (Using Quick-sort)|[C++](c++/strin.quicksort.cpp)|
+|Given two strings, check if one is the anagram of another|[Java](java/Anagram.java)|
 
 
 
@@ -180,29 +181,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 |the-dice-problem|[C++](c++/the-dice-problem.cpp)|
 |for-loop-prime-check|[Java](java/for-loop-prime-check.java)|
 |Sum digits of a number|[Python](python/sum_to_digits.py)|
-
-
-
-
-
-
-
-# SOON ONLINE
-
-## Bit Manipulation
-
-## Backtracking
-
-
-## Dynamic Programming
-
-## Greedy
-
-## Graph
-
-## Heap
-
-## Two Pointers
 
 ## How to contribute?
 1. Fork the repository
