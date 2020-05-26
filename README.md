@@ -98,6 +98,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
 |Repeated chars|[C++](c++/repeate-char.cpp)|
 |String sort (Using Quick-sort)|[C++](c++/strin.quicksort.cpp)|
+| Reverse words of a given string|[C++](c++/reverse-word-in-given-string.cpp)
 |Given two strings, check if one is the anagram of another|[Java](java/Anagram.java)|
 
 
@@ -118,7 +119,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Circular Linked List|[C++](c++/circular-linked-list.cpp)|
 |Reverse a Linked List|[C++](c++/reverse_linked_list.cpp)|
 |Detect a loop|[C++](c++/detect_loop.cpp)|
-|Remove loop from Linked List|[C++](c++/remove loop from linked list.cpp)|
+|Remove loop from Linked List|[C++](c++/remove-loop-from-linked-list.cpp)|
+|Check if a Linked LIst is Palindrome|[C++](c++/check-if-linked-list-is-palindrome.cpp)|
 
 
 ## Stack
@@ -173,6 +175,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Are two trees equals|[C++](c++/two-tree-are-identical.cpp)|
 |Sum of Binary Tree|[C++](c++/sum-of-binary-tree.cpp)|
 |K distance from root|[C++](c++/k_distance_from_root.cpp)|
+|Lowest Commond Ancestor in a BST|[C++](c++/lowest-common-ancestor-bst.cpp)|
 
 ## Graph
 |    Name  |  Solution        |
