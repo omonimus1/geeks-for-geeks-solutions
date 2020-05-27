@@ -121,6 +121,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Detect a loop|[C++](c++/detect_loop.cpp)|
 |Remove loop from Linked List|[C++](c++/remove-loop-from-linked-list.cpp)|
 |Check if a Linked LIst is Palindrome|[C++](c++/check-if-linked-list-is-palindrome.cpp)|
+|Remove node without having reference of the head node|[C++](c++/delete-node-without-head-pointer.cpp.cpp)|
 
 
 ## Stack
@@ -193,6 +194,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Int-to-binary|[C++](c++/int-to-binary.cpp)|
 |find-prime-numbers-in-a-range|[C++](c++/prime-numbers-in-range.cpp)|
 |Strong numbers|[C++](c++/strong-number.cpp)|
+|Power of 2|[C++](c++/power-of-2.cpp)|
 |the-dice-problem|[C++](c++/the-dice-problem.cpp)|
 |for-loop-prime-check|[Java](java/for-loop-prime-check.java)|
 |Sum digits of a number|[Python](python/sum_to_digits.py)|
