@@ -23,7 +23,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 * [Binary Search](#Binary-Search)
 * [Tree and BST](#Tree-and-Binary-Search-Tree)
 * [Graph](#Graph)
-* [Math](#Math)
+* [Math and Bit Magic](#Math-and-BitMagic)
 * [Prime Numbers](#Prime-numbers)
 
 
@@ -98,6 +98,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
 |Repeated chars|[C++](c++/repeate-char.cpp)|
 |String sort (Using Quick-sort)|[C++](c++/strin.quicksort.cpp)|
+|Check if a string is Isogram or not|[C++](c++/check-if-string-is-isogram.cpp.cpp)|
 | Reverse words of a given string|[C++](c++/reverse-word-in-given-string.cpp)
 |Given two strings, check if one is the anagram of another|[Java](java/Anagram.java)|
 
@@ -183,7 +184,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |----------|:----------------:|
 |Sum of depenncies in a graph |[C++](c++/sum_of_depencies.cpp)|
 
-## Math
+## Math and BitMagic
 
 |    Name  |  Solution        |
 |----------|:----------------:|
@@ -195,9 +196,12 @@ I have solved quite a number of problems from several topics. See the below tabl
 |find-prime-numbers-in-a-range|[C++](c++/prime-numbers-in-range.cpp)|
 |Strong numbers|[C++](c++/strong-number.cpp)|
 |Power of 2|[C++](c++/power-of-2.cpp)|
+|Count Number of set bits|[C++](c++/count-number-of-set-bits.cpp)|
+|Prime number check with N <= 10^9| [C++](prime-number-check.cpp)
 |the-dice-problem|[C++](c++/the-dice-problem.cpp)|
 |for-loop-prime-check|[Java](java/for-loop-prime-check.java)|
 |Sum digits of a number|[Python](python/sum_to_digits.py)|
+
 
 ## How to contribute?
 1. Fork the repository
