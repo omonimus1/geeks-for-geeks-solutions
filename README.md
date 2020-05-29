@@ -63,6 +63,9 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Front to back|[C++](c++/front-to-back.cpp)|
 |Find immediate smaller than X|[C++](c++/find_immediate_smaller_than_x.cpp)|
 |Kth Smallest Element|[C++](c++/kth-smallest-number.cpp)|
+|Index of the first repeating element |[C++](c++/first-repeating-element.cpp)|
+|K-th element of two sorted Arrays(merge of two arrays)|[C++](c++/k-th-element-of-two-sorted-arrays.cpp)|
+
 
 
 ## Sorting
@@ -72,7 +75,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Maximum product of two numbers|[C++](c++/maximum-product-of-tw-numbers.cpp)|
 |Count the zeros|[C++](c++/counte-the-zeros.cpp)|
 |Bubble sort|[C++](c++/bubble_sort.cpp)|
-
 |Rotate Matrix by 90 degrees- clowise|[C++](c++/rotate-matrixe-clowise.cpp)|
 
 
