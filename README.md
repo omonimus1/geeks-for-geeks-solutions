@@ -63,6 +63,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Front to back|[C++](c++/front-to-back.cpp)|
 |Find immediate smaller than X|[C++](c++/find_immediate_smaller_than_x.cpp)|
 |Kth Smallest Element|[C++](c++/kth-smallest-number.cpp)|
+|Alone in Couple|[C++](c++/alone-in-couple.cpp)|
 |Index of the first repeating element |[C++](c++/first-repeating-element.cpp)|
 |K-th element of two sorted Arrays(merge of two arrays)|[C++](c++/k-th-element-of-two-sorted-arrays.cpp)|
 
@@ -124,7 +125,9 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Detect a loop|[C++](c++/detect_loop.cpp)|
 |Remove loop from Linked List|[C++](c++/remove-loop-from-linked-list.cpp)|
 |Check if a Linked LIst is Palindrome|[C++](c++/check-if-linked-list-is-palindrome.cpp)|
+|Sort Linked list of 0s, 1s and 2|[C++](c++/sort-linked-list-of-0s-1s-2s.cpp)|
 |Remove node without having reference of the head node|[C++](c++/delete-node-without-head-pointer.cpp.cpp)|
+
 
 
 ## Stack
@@ -180,6 +183,9 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Sum of Binary Tree|[C++](c++/sum-of-binary-tree.cpp)|
 |K distance from root|[C++](c++/k_distance_from_root.cpp)|
 |Lowest Commond Ancestor in a BST|[C++](c++/lowest-common-ancestor-bst.cpp)|
+|Count leaves in binary tree|[C++](c++/count-leaves-in-binary-tree.cpp)|
+
+
 
 ## Graph
 |    Name  |  Solution        |
@@ -199,6 +205,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Strong numbers|[C++](c++/strong-number.cpp)|
 |Power of 2|[C++](c++/power-of-2.cpp)|
 |Count Number of set bits|[C++](c++/count-number-of-set-bits.cpp)|
+|Number is Sparse or not|[C++](c++/number-is-sparceor-not.cpp)|
 |Prime number check with N <= 10^9| [C++](prime-number-check.cpp)
 |the-dice-problem|[C++](c++/the-dice-problem.cpp)|
 |for-loop-prime-check|[Java](java/for-loop-prime-check.java)|
