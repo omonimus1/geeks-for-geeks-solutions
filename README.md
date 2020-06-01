@@ -64,6 +64,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Find immediate smaller than X|[C++](c++/find_immediate_smaller_than_x.cpp)|
 |Kth Smallest Element|[C++](c++/kth-smallest-number.cpp)|
 |Alone in Couple|[C++](c++/alone-in-couple.cpp)|
+|Pair sum in vector(sum second element of the second element)|[C++](c++/pair-sum-in-vector.cpp)|
 |Index of the first repeating element |[C++](c++/first-repeating-element.cpp)|
 |K-th element of two sorted Arrays(merge of two arrays)|[C++](c++/k-th-element-of-two-sorted-arrays.cpp)|
 
@@ -125,6 +126,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Detect a loop|[C++](c++/detect_loop.cpp)|
 |Remove loop from Linked List|[C++](c++/remove-loop-from-linked-list.cpp)|
 |Check if a Linked LIst is Palindrome|[C++](c++/check-if-linked-list-is-palindrome.cpp)|
+|Occurrence of an integer in a linked list|[C++](c++/occurrence-of-an-integer-in-a-linked-list.cpp)|
 |Sort Linked list of 0s, 1s and 2|[C++](c++/sort-linked-list-of-0s-1s-2s.cpp)|
 |Remove node without having reference of the head node|[C++](c++/delete-node-without-head-pointer.cpp.cpp)|
 

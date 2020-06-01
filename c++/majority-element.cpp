@@ -1,50 +1,44 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
-
-void solve_test()
+int get_majority_element()
 {
-    long int list_size; 
-    long int arr[list_size];
-    long int number;
-    for(int i =0; i < list_size; i++)
+    int n=14, number;
+    // cin >> n;
+    int arr[n] = {1,2,0,1,0,0,0,1,0,0,2,0,1,0};
+    /*for(int i =0; i <n; i++)
     {
-        cin >> number; 
-        arr[i] = number; 
+        cin  >> number;
+        arr[i] = number;
     }
-    int counter;
-    for(int i =0; i< list_size; i++)
+    */
+    
+
+    int half_size = n/2;
+    // Get Majority element 
+    for(int i =0; i< n; i++)
     {
-        counter = 0;
-        for(int j=0; j <list_size; j++)
+        int counter = 0;
+        for(int j=0; j <n; j++)
         {
-            if(j==i)
-                continue;
-            if(counter > list_size/2)
-            {
-                cout << arr[i]<<endl;
-                return; 
-            }
+            cout<<"Conter "<< counter<< "  arr[i]: "<<arr[i] << "  arr[j]: "<<arr[j]<< endl;
+            if(counter >= half_size)
+                return arr[i];
             if(arr[i] == arr[j])
-            {
                 counter++;
-            }
-            
         }
-        
     }
-    cout << -1<<endl;
+    return -1;
 }
 
 int main()
 {
-    int t; 
-    cin >> t; 
+    int t=1; 
+    //cin >> t; 
     
-    for(int i=0; i<t; i++)
-    {
-        solve_test();
-    }
+    while(t--)
+        cout <<get_majority_element()<<endl;
+    
 	
 	return 0;
 }
