@@ -4,10 +4,6 @@
 
 My solutions to competitive programming problems in [Geeks for Geeks](https://auth.geeksforgeeks.org/user/davidepollicino2015/practice/) written using C++, Python and Java.
 
-## What you can find in this repository
-
-I have solved quite a number of problems from several topics. See the below tables for further details.
-
 ## Algorithms and Data structures
 * [Programming foundamental](#Programming-foundamentals)
 * [Array](#Array-or-Vector)
