@@ -2,7 +2,7 @@
 
 # Geeks-for-geeks-solutions
 
-My solutions to algorithmic problems in [Geeks for Geeks](https://auth.geeksforgeeks.org/user/davidepollicino2015/practice/) written using C++, Python and Java
+My solutions to competitive programming problems in [Geeks for Geeks](https://auth.geeksforgeeks.org/user/davidepollicino2015/practice/) written using C++, Python and Java.
 
 ## What you can find in this repository
 
@@ -101,6 +101,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Is Isogram|[C++](c++/isIsogram.cpp)|
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
 |Repeated chars|[C++](c++/repeate-char.cpp)|
+|Amend the sentece|[C++](c++/amend-the-sentence.cpp)|
+|Remove 'b' and 'ac' from given string|[C++](c++/remove-a-and0ac-from-given-string.cpp)|
 |String sort (Using Quick-sort)|[C++](c++/strin.quicksort.cpp)|
 |Check if a string is Isogram or not|[C++](c++/check-if-string-is-isogram.cpp.cpp)|
 | Reverse words of a given string|[C++](c++/reverse-word-in-given-string.cpp)
@@ -186,7 +188,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |K distance from root|[C++](c++/k_distance_from_root.cpp)|
 |Lowest Commond Ancestor in a BST|[C++](c++/lowest-common-ancestor-bst.cpp)|
 |Count leaves in binary tree|[C++](c++/count-leaves-in-binary-tree.cpp)|
-
+|Couunt BST nodes that lie a given range|[C++](c++/count-bst-nodes-that-lie-in-a-give-range.cpp)|
 
 
 ## Graph
