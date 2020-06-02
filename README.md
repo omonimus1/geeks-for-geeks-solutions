@@ -207,6 +207,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |Int-to-binary|[C++](c++/int-to-binary.cpp)|
 |find-prime-numbers-in-a-range|[C++](c++/prime-numbers-in-range.cpp)|
 |Strong numbers|[C++](c++/strong-number.cpp)|
+|Pairs with difference k|[C++](c++/pairs-with-difference-k.cpp)|
 |Power of 2|[C++](c++/power-of-2.cpp)|
 |Count Number of set bits|[C++](c++/count-number-of-set-bits.cpp)|
 |Number is Sparse or not|[C++](c++/number-is-sparceor-not.cpp)|
