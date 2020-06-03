@@ -185,6 +185,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Postorder traversal|[C++](c++/postorder-traversal.cpp)|
 |Are two trees equals|[C++](c++/two-tree-are-identical.cpp)|
 |Sum of Binary Tree|[C++](c++/sum-of-binary-tree.cpp)|
+|Sum of leaf nodes in BST|[C++](c++/sum-of-leaf-nodes-in-bst.cpp)|
 |K distance from root|[C++](c++/k_distance_from_root.cpp)|
 |Lowest Commond Ancestor in a BST|[C++](c++/lowest-common-ancestor-bst.cpp)|
 |Inorder traversal and BST|[C++](c++/inorder-traversal-and-bst.cpp)|
