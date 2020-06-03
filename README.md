@@ -187,6 +187,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Sum of Binary Tree|[C++](c++/sum-of-binary-tree.cpp)|
 |K distance from root|[C++](c++/k_distance_from_root.cpp)|
 |Lowest Commond Ancestor in a BST|[C++](c++/lowest-common-ancestor-bst.cpp)|
+|Inorder traversal and BST|[C++](c++/inorder-traversal-and-bst.cpp)|
 |Count leaves in binary tree|[C++](c++/count-leaves-in-binary-tree.cpp)|
 |Couunt BST nodes that lie a given range|[C++](c++/count-bst-nodes-that-lie-in-a-give-range.cpp)|
 
