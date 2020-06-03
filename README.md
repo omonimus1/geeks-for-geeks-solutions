@@ -57,6 +57,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Sort and Reverse|[C++](c++/sort-and-reverse.cpp)|
 |Back to front|[C++](c++/back-to-front.cpp)|
 |Front to back|[C++](c++/front-to-back.cpp)|
+|Student of the year (Descending sorting of vector of pairs)|[C++](c++/student-of-the-year.cpp)|
 |Find immediate smaller than X|[C++](c++/find_immediate_smaller_than_x.cpp)|
 |Kth Smallest Element|[C++](c++/kth-smallest-number.cpp)|
 |Alone in Couple|[C++](c++/alone-in-couple.cpp)|
@@ -70,6 +71,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 
 |    Name  |  Solution        |
 |----------|:----------------:|
+|C generic sort|[C++](c++/c-generic-sort.cpp)|
 |Maximum product of two numbers|[C++](c++/maximum-product-of-tw-numbers.cpp)|
 |Count the zeros|[C++](c++/counte-the-zeros.cpp)|
 |Bubble sort|[C++](c++/bubble_sort.cpp)|
@@ -95,6 +97,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Hello World|[Python](python/helloworld.py)|
 |Contatenate String python|[python](python/concatenating-string.py)|
 |Is Isogram|[C++](c++/isIsogram.cpp)|
+|C friend function (anagram check)|[C++](c++/c-friend-function.cpp)|
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
 |Repeated chars|[C++](c++/repeate-char.cpp)|
 |Amend the sentece|[C++](c++/amend-the-sentence.cpp)|
@@ -175,6 +178,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Min in BST|[C++](c++/min-in-BST.cpp)|
 |Search Element in BST|[C++](c++/search-element-in-bst.cpp)|
 |search-a-node-in-bst|[C++](c++/search-node-bst.cpp)|
+|Insert a node in a BST |[C++](c++/insert-a-node-in-a-bst.cpp)|
 |Size of a binary tree|[C++](c++/size-of-binary-tree.cpp)|
 |Inorder traversal|[C++](c++/inorder-traversal.cpp)|
 |Preorder traversal|[C++](c++/preoder-traversal.cpp)|
@@ -196,6 +200,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 
 |    Name  |  Solution        |
 |----------|:----------------:|
+| Maximize toys |[C++](c++/maximize-toys.cpp)|
 |Count numbers divisible by M|[C++](c++/count-numbers-divisible-by-m.cpp)|
 |armstrong-numbers|[C++](c++/ambstrong.cpp)|
 |automorphic numbers|[C++](c++/automorphic-number.cpp)|
