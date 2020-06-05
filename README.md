@@ -2,6 +2,10 @@
 
 # Geeks-for-geeks-solutions
 
+In this repository you will find:
+* Generic Practicse solutions 
+* [Amazon coding challenges preparation](https://github.com/omonimus1/amazon-test-series/README.md)
+
 My solutions to competitive programming problems in [Geeks for Geeks](https://auth.geeksforgeeks.org/user/davidepollicino2015/practice/) written using C++, Python and Java.
 
 ## Algorithms and Data structures
@@ -47,6 +51,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 
 |    Name  |  Solution        |
 |----------|:----------------:|
+|Generate Permutation(single case example)|[C++](c++/generate-permutation.cpp)|
 |Count Evens and odds|[C++](c++/count-odd-even.cpp)|
 |Sort array os 0s, 1 and 2s|[C++](c++/sort-arrays-of-0-and-1.cpp)|
 |Need some change|[C++](c++/need-some-chage.cpp)|
@@ -176,6 +181,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 |Binary Search |[C++](c++/bin-search.cpp)|
 |Min in BST|[C++](c++/min-in-BST.cpp)|
+|Sum of leaf nodes (Tree)|[C++](c++/sum-of-leaf-nodes.cpp)|
 |Search Element in BST|[C++](c++/search-element-in-bst.cpp)|
 |search-a-node-in-bst|[C++](c++/search-node-bst.cpp)|
 |Insert a node in a BST |[C++](c++/insert-a-node-in-a-bst.cpp)|
