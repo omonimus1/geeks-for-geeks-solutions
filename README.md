@@ -132,6 +132,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Detect a loop|[C++](c++/detect_loop.cpp)|
 |Remove loop from Linked List|[C++](c++/remove-loop-from-linked-list.cpp)|
 |Check if a Linked LIst is Palindrome|[C++](c++/check-if-linked-list-is-palindrome.cpp)|
+| Find lenght of a loop |[C++](c++/find-lenght-of-loop.cpp)|
 |Occurrence of an integer in a linked list|[C++](c++/occurrence-of-an-integer-in-a-linked-list.cpp)|
 |Sort Linked list of 0s, 1s and 2|[C++](c++/sort-linked-list-of-0s-1s-2s.cpp)|
 |Remove node without having reference of the head node|[C++](c++/delete-node-without-head-pointer.cpp.cpp)|
@@ -203,6 +204,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Sum of depenncies in a graph |[C++](c++/sum_of_depencies.cpp)|
+| BFS of a graph |[C++](c++/bfs-graph.cpp)|
 
 ## Math and BitMagic
 
@@ -210,6 +212,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 | Find position of set bit |[C++](c++/find-position-of-set-bit.cpp)|
 | Maximize toys |[C++](c++/maximize-toys.cpp)|
+| Check if k bit is set |[C++](c++/check-if-k-bit-is-set.cpp)|
 |Count numbers divisible by M|[C++](c++/count-numbers-divisible-by-m.cpp)|
 |armstrong-numbers|[C++](c++/ambstrong.cpp)|
 |automorphic numbers|[C++](c++/automorphic-number.cpp)|
