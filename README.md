@@ -208,6 +208,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 
 |    Name  |  Solution        |
 |----------|:----------------:|
+| Find position of set bit |[C++](c++/find-position-of-set-bit.cpp)|
 | Maximize toys |[C++](c++/maximize-toys.cpp)|
 |Count numbers divisible by M|[C++](c++/count-numbers-divisible-by-m.cpp)|
 |armstrong-numbers|[C++](c++/ambstrong.cpp)|
