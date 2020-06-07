@@ -44,6 +44,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Learn to Comment|[C++](c++/learn-to-comment.cpp)|
 |Swap the objects|[C++](c++/swap-the-objects.cpp)|
 |While Loop print table|[C++](c++/while-loop-print-table.cpp)|
+|Prime check |[C++](c++/prime-check.cpp)|
 
 
 
@@ -218,6 +219,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 | Find position of set bit |[C++](c++/find-position-of-set-bit.cpp)|
 | Maximize toys |[C++](c++/maximize-toys.cpp)|
 | Check if k bit is set |[C++](c++/check-if-k-bit-is-set.cpp)|
+| Absolute Value |[C++](c++/absolute-value.cpp)|
+|Convert Celsius To Fahrenheit|[C++](c++/c-to-f.cpp)|
 |Count numbers divisible by M|[C++](c++/count-numbers-divisible-by-m.cpp)|
 |armstrong-numbers|[C++](c++/ambstrong.cpp)|
 |automorphic numbers|[C++](c++/automorphic-number.cpp)|
