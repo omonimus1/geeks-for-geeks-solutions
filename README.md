@@ -51,6 +51,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 
 |    Name  |  Solution        |
 |----------|:----------------:|
+|Sub array with given sum (print index range of the subarray)|[C++](c++/subarray-with-given-sum.cpp)|
 |Generate Permutation(single case example)|[C++](c++/generate-permutation.cpp)|
 |Count Evens and odds|[C++](c++/count-odd-even.cpp)|
 |Sort array os 0s, 1 and 2s|[C++](c++/sort-arrays-of-0-and-1.cpp)|
@@ -69,7 +70,11 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Pair sum in vector(sum second element of the second element)|[C++](c++/pair-sum-in-vector.cpp)|
 |Index of the first repeating element |[C++](c++/first-repeating-element.cpp)|
 |K-th element of two sorted Arrays(merge of two arrays)|[C++](c++/k-th-element-of-two-sorted-arrays.cpp)|
-
+| [Replace all 0's with 5(using atoi)](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/?track=amazon-arrays&batchId=192) |[C++ solution](c++/replace-os-with-5s.cpp)|
+| [Third largest element](https://practice.geeksforgeeks.org/problems/third-largest-element/1/?track=amazon-arrays&batchId=192) |[C++ solution](c++/third-larghest-element.cpp)|
+| [Find Duplocates in an Array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/?track=amazon-arrays&batchId=192) |[C++ solution](c++/find-duplicates-in-array.cpp)|
+| [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1/?track=amazon-searching&batchId=192) |[C++ solution](c++/majority-element.cpp)|
+| [Max and Second max](https://practice.geeksforgeeks.org/problems/max-and-second-max/1/?track=amazon-arrays&batchId=192) |[C++ solution](c++/max-and-second-max.cpp)|
 
 
 ## Sorting

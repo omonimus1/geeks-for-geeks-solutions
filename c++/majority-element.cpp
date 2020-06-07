@@ -1,44 +1,33 @@
-#include <iostream>
-using namespace std;
-
-int get_majority_element()
+//  https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1/?track=amazon-searching&batchId=192
+int majorityElement(int a[], int size)
 {
-    int n=14, number;
-    // cin >> n;
-    int arr[n] = {1,2,0,1,0,0,0,1,0,0,2,0,1,0};
-    /*for(int i =0; i <n; i++)
+    if(size == 1)
+        return a[0];
+    if (size == 2)
     {
-        cin  >> number;
-        arr[i] = number;
+        if(a[0] == a[1])
+            return a[0];
+        else 
+            return -1;
     }
-    */
     
-
-    int half_size = n/2;
-    // Get Majority element 
-    for(int i =0; i< n; i++)
+    if(size == 3)
     {
-        int counter = 0;
-        for(int j=0; j <n; j++)
-        {
-            cout<<"Conter "<< counter<< "  arr[i]: "<<arr[i] << "  arr[j]: "<<arr[j]<< endl;
-            if(counter >= half_size)
-                return arr[i];
-            if(arr[i] == arr[j])
-                counter++;
+        if(a[0] != a[1] || a[1] != a[2])
+            return -1;
+    }
+    sort(a, a+size);
+    int counter = 0;
+    for(int i=0; i < size; i++)
+    {
+        if(counter >= size/2)
+            return a[i];
+        if(a[i] == a[i+1])
+        {    
+            counter++;
+            continue;
         }
+        counter = 0;
     }
     return -1;
-}
-
-int main()
-{
-    int t=1; 
-    //cin >> t; 
-    
-    while(t--)
-        cout <<get_majority_element()<<endl;
-    
-	
-	return 0;
 }
