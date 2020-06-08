@@ -243,6 +243,11 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 2. Do the desired changes (add/delete/modify)
 3. Make a pull request
 
+## Contribution essentials note:
+* The first row of the solution must contain a comment with the link to the problem
+* The commit message **must be** : "Adds <name of the problem> solution"
+* The solution must be reported in the solution list in the README.md file. 
+
 ## When to contribute?
 1. If there is no solution to a problem in the main branch.
 2. If your solution is asymptotically faster than the one in the main branch.
