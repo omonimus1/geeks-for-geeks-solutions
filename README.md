@@ -4,7 +4,7 @@
 
 In this repository you will find:
 * Generic Practicse solutions 
-* [Amazon coding challenges preparation](https://github.com/omonimus1/amazon-test-series/README.md)
+* Amazon coding challenges preparation solutions
 
 My solutions to competitive programming problems in [Geeks for Geeks](https://auth.geeksforgeeks.org/user/davidepollicino2015/practice/) written using C++, Python and Java.
 
