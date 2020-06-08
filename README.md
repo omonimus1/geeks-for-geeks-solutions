@@ -245,7 +245,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 
 ## Contribution essentials note:
 * The first row of the solution must contain a comment with the link to the problem
-* The commit message **must be** : "Adds <name of the problem> solution"
+* The commit message **must be** : "Adds solution full-problem-name"
 * The solution must be reported in the solution list in the README.md file. 
 
 ## When to contribute?
