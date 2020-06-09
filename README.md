@@ -20,7 +20,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 * [Queue](#Queue-and-Dequeu)
 * [Set and Multiset](#Set)
 * [Heap](#Heap)
-* [Binary Search](#Binary-Search)
+* [Search](#Search)
 * [Tree and BST](#Tree-and-Binary-Search-Tree)
 * [Graph](#Graph)
 * [Math and Bit Magic](#Math-and-BitMagic)
@@ -95,6 +95,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Count zeros|[C++](c++/count-zeros.cpp)|
+|Max number of 1s in a row|[C++](c++/maximum-no-of-1s-row.cpp.cpp)|
+|Adding two matrices|[C++](c++/adding-two-matrices.cpp)|
 |Transpose matrix|[C++](c++/transpose-of-matrix.cpp)|
 |two-dimensional-world|[C++](c++/two-dimensionalworld.cpp)|
 |Rotate Matrix of 90 degrees|[C++](c++/rotate-matrix-of-90-degrees.cpp)|
@@ -176,11 +178,13 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 |K-largest-elements|[C++](c++/k-larghest-elements.cpp)|
 
-## Binary Search
+## Search
 
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Binary Search |[C++](c++/bin-search.cpp)|
+|Number of occurrence |[C++](c++/number-of-occurrency.cpp)|
+
 
 ## Tree-and-Binary-Search-Tree
 
@@ -216,6 +220,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 
 |    Name  |  Solution        |
 |----------|:----------------:|
+| Addition under modulo|[C++](c++/addition-under-modulo.cpp)|
 | Find position of set bit |[C++](c++/find-position-of-set-bit.cpp)|
 | Maximize toys |[C++](c++/maximize-toys.cpp)|
 | Check if k bit is set |[C++](c++/check-if-k-bit-is-set.cpp)|
