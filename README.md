@@ -37,9 +37,16 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Java Inheritance|[Java](java/java-inheritance.java)|
 |Even-odd in Java|[Java](java/even-odd.java)|
 |Hello Word-python|[Python](python/hello-world.py)|
+|Comparison|[Python](python/comparison.py)|
+|Split the input|[Python](python/split-the-input.py)|
+|Taking input|[Python](python/taking-input.py)|
+|Is and in operator |[Python](python/is-and-in-operator.py)|
 |Repeatitive printing-python|[Python](python/repeatitive-printing.py)|
 |Sep and End|[Python](python/sep-and-end-in-print.py)|
+|Logical operators|[Python](python/logical-operators.py)|
 |Sep -Space separate|[Python](python/space-separate.py)|
+|Comment in python|[Python](python/comment-in-python.py)|
+|Operators in python|[Python](python/operators-in-python.py)|
 |Step-by-step-condition|[C++](c++/step-by-step-condition.cpp)|
 |Learn to Comment|[C++](c++/learn-to-comment.cpp)|
 |Swap the objects|[C++](c++/swap-the-objects.cpp)|
@@ -107,7 +114,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 
 
 ## Strings
-
+      
 |   Name       |  Solution|
 |----------|:----------------:|
 |String validation |[Python](python/string/string_validation.py)|
