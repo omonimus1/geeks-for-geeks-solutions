@@ -41,6 +41,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Split the input|[Python](python/split-the-input.py)|
 |Taking input|[Python](python/taking-input.py)|
 |Is and in operator |[Python](python/is-and-in-operator.py)|
+|For loop python|[Python](python/for-loop-python.py)|
+|While loop in python|[Python](python/while-loop-in-python.py)|
 |Repeatitive printing-python|[Python](python/repeatitive-printing.py)|
 |Sep and End|[Python](python/sep-and-end-in-print.py)|
 |Logical operators|[Python](python/logical-operators.py)|
