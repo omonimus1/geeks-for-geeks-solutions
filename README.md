@@ -54,8 +54,10 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 |Sub array with given sum (print index range of the subarray)|[C++](c++/subarray-with-given-sum.cpp)|
 |Generate Permutation(single case example)|[C++](c++/generate-permutation.cpp)|
+|Find min and maximum number|[C++](c++/find-minimum-and-maximum-nuber.cpp)|
 |Count Evens and odds|[C++](c++/count-odd-even.cpp)|
 |Sort array os 0s, 1 and 2s|[C++](c++/sort-arrays-of-0-and-1.cpp)|
+|Reverse the array|[C++](c++/reverse-the-array.cpp)|
 |Need some change|[C++](c++/need-some-chage.cpp)|
 |Find the frequency|[C++](c++/find-the-frequency.cpp)|
 |Immediate smaller element|[C++](c++/immediate-smaller-element.cpp)|
@@ -64,6 +66,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Sort and Reverse|[C++](c++/sort-and-reverse.cpp)|
 |Back to front|[C++](c++/back-to-front.cpp)|
 |Front to back|[C++](c++/front-to-back.cpp)|
+|Count smaller element|[C++](c++/count-smaller-elements.cpp)|
+|Facing the sun|[C++](c++/facing-the-sun.cpp)|
 |Student of the year (Descending sorting of vector of pairs)|[C++](c++/student-of-the-year.cpp)|
 |Find immediate smaller than X|[C++](c++/find_immediate_smaller_than_x.cpp)|
 |Kth Smallest Element|[C++](c++/kth-smallest-number.cpp)|
@@ -71,11 +75,11 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Pair sum in vector(sum second element of the second element)|[C++](c++/pair-sum-in-vector.cpp)|
 |Index of the first repeating element |[C++](c++/first-repeating-element.cpp)|
 |K-th element of two sorted Arrays(merge of two arrays)|[C++](c++/k-th-element-of-two-sorted-arrays.cpp)|
-| [Replace all 0's with 5(using atoi)](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/?track=amazon-arrays&batchId=192) |[C++ solution](c++/replace-os-with-5s.cpp)|
-| [Third largest element](https://practice.geeksforgeeks.org/problems/third-largest-element/1/?track=amazon-arrays&batchId=192) |[C++ solution](c++/third-larghest-element.cpp)|
-| [Find Duplocates in an Array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/?track=amazon-arrays&batchId=192) |[C++ solution](c++/find-duplicates-in-array.cpp)|
-| [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1/?track=amazon-searching&batchId=192) |[C++ solution](c++/majority-element.cpp)|
-| [Max and Second max](https://practice.geeksforgeeks.org/problems/max-and-second-max/1/?track=amazon-arrays&batchId=192) |[C++ solution](c++/max-and-second-max.cpp)|
+| [Replace all 0's with 5(using atoi)](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/?track=amazon-arrays&batchId=192) |[C++](c++/replace-os-with-5s.cpp)|
+| [Third largest element](https://practice.geeksforgeeks.org/problems/third-largest-element/1/?track=amazon-arrays&batchId=192) |[C++](c++/third-larghest-element.cpp)|
+| [Find Duplocates in an Array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/?track=amazon-arrays&batchId=192) |[C++](c++/find-duplicates-in-array.cpp)|
+| [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1/?track=amazon-searching&batchId=192) |[C++](c++/majority-element.cpp)|
+| [Max and Second max](https://practice.geeksforgeeks.org/problems/max-and-second-max/1/?track=amazon-arrays&batchId=192) |[C++](c++/max-and-second-max.cpp)|
 
 
 ## Sorting
@@ -127,6 +131,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Learning struct|[C++](c++/learning-struct.cpp)|
+|Compare two linked list|[C++](c++/compare-two-linked-list.cpp)|
 |Count nodes in Liked List |[C++](c++/count-nodes-of-linked-list.cpp)|
 |Count Occurrency|[C++](c++/count-occurrency-linked-list.cpp)|
 |Identical Linked List|[C++](c++/identical-Linked-list.cpp)|
@@ -183,6 +188,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Binary Search |[C++](c++/bin-search.cpp)|
+|Peak element|[C++](c++/peak-element.cpp)|
 |Number of occurrence |[C++](c++/number-of-occurrency.cpp)|
 
 
