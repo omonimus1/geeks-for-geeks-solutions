@@ -81,6 +81,9 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Find immediate smaller than X|[C++](c++/find_immediate_smaller_than_x.cpp)|
 |Kth Smallest Element|[C++](c++/kth-smallest-number.cpp)|
 |Alone in Couple|[C++](c++/alone-in-couple.cpp)|
+|Intro to list|[Python](python/intro-to-list.py)|
+|Count even odd python|[Python](python/count-even-odd-python.py)|
+|Functions in list|[Python](python/functions-in-list.py)|
 |Pair sum in vector(sum second element of the second element)|[C++](c++/pair-sum-in-vector.cpp)|
 |Index of the first repeating element |[C++](c++/first-repeating-element.cpp)|
 |K-th element of two sorted Arrays(merge of two arrays)|[C++](c++/k-th-element-of-two-sorted-arrays.cpp)|
