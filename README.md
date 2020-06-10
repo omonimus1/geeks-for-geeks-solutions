@@ -6,7 +6,7 @@ In this repository you will find:
 * Generic Practicse solutions 
 * Amazon coding challenges preparation solutions
 
-My solutions to competitive programming problems in [Geeks for Geeks](https://auth.geeksforgeeks.org/user/davidepollicino2015/practice/) written using C++, Python and Java.
+My solutions to competitive programming problems in [Geeks for Geeks](https://auth.geeksforgeeks.org/user/davidepollicino/practice/) written using C++, Python and Java.
 
 ## Algorithms and Data structures
 * [Programming foundamental](#Programming-foundamentals)
@@ -120,6 +120,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |   Name       |  Solution|
 |----------|:----------------:|
 |String validation |[Python](python/string/string_validation.py)|
+|Repeat the string|[Python](python/repeat-the-string.py)|
+|Welcome abroad|[Python](python/welcome-abroard-python.py)|
 |Hello World|[Python](python/helloworld.py)|
 |Contatenate String python|[python](python/concatenating-string.py)|
 |Is Isogram|[C++](c++/isIsogram.cpp)|
