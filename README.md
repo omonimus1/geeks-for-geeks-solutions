@@ -57,12 +57,14 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 
 
 
+
 ## Array or Vector
 
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Sub array with given sum (print index range of the subarray)|[C++](c++/subarray-with-given-sum.cpp)|
 |Generate Permutation(single case example)|[C++](c++/generate-permutation.cpp)|
+|Rotate array by n elements|[C++](c++/rotate-array-by-n-elements-1587115621.cpp)|
 |Find min and maximum number|[C++](c++/find-minimum-and-maximum-nuber.cpp)|
 |Count Evens and odds|[C++](c++/count-odd-even.cpp)|
 |Sort array os 0s, 1 and 2s|[C++](c++/sort-arrays-of-0-and-1.cpp)|
