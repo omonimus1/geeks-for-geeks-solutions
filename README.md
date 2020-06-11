@@ -11,9 +11,9 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 ## Index of content
 
 1. [Algorithms and Data structures](#Algorithms-and-Data-structures)
-2. [Contribute](#How-to-contribute?)
+2. [Contribute](#Contribute)
 3. [Connect with me](#Connect)
-4. [Support me to get more](#Support-me)
+4. [Support me to get more](#Support)
 
 ## Algorithms and Data structures
 * [Programming foundamental](#Programming-foundamentals)
@@ -26,6 +26,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 * [Stack](#Stack)
 * [Queue](#Queue-and-Dequeu)
 * [Set and Multiset](#Set)
+* [Map](#Map)
 * [Heap](#Heap)
 * [Search](#Search)
 * [Tree and BST](#Tree-and-Binary-Search-Tree)
@@ -158,6 +159,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Count nodes in Liked List |[C++](c++/count-nodes-of-linked-list.cpp)|
 |Count Occurrency|[C++](c++/count-occurrency-linked-list.cpp)|
 |Identical Linked List|[C++](c++/identical-Linked-list.cpp)|
+|Insert in sorted linked list|[C++](c++/insert-in-sorted-linked-list.cpp)|
 |linked-list-length-even-or-odd|[C++](c++/linked-list-lenght-even-or-odd.cpp)|
 |Middle Element|[C++](c++/middle-element-linkedlist.cpp)|
 |Node at the given position|[C++](c++/node-at-given-pos-linked-list.cpp)|
@@ -199,6 +201,12 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Set operations|[C++](c++/set-operations.cpp)|
 |Multiset Operator|[C++](c++/multiset-operator.cpp)|
 
+## Map
+
+|    Name  |  Solution        |
+|----------|:----------------:|
+|Multimap operations|[C++](c++/multimap-operations.cpp)|
+|Map operations|[C++](c++/map-operations.cpp)|
 
 ## Heap
 
@@ -272,7 +280,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Sum digits of a number|[Python](python/sum_to_digits.py)|
 
 
-## How to contribute?
+## Contribute
 1. Fork the repository
 2. Do the desired changes (add/delete/modify)
 3. Make a pull request
@@ -300,6 +308,6 @@ If you have any questions about the solutions you can find here, feel free to co
 * [www.davidepollicino.com](http://davidepollicino.com/)
 
 
-## Suppport me 
+## Suppport
 
 [PAYPAL ME](paypal.me/davidepollicino7)
