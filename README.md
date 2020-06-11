@@ -71,6 +71,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Sub array with given sum (print index range of the subarray)|[C++](c++/subarray-with-given-sum.cpp)|
+|Check if two arrays are equals|[C++](c++/check-if-two-arrays-are-equals.cpp)|
 |Generate Permutation(single case example)|[C++](c++/generate-permutation.cpp)|
 |Rotate array by n elements|[C++](c++/rotate-array-by-n-elements-1587115621.cpp)|
 |Find min and maximum number|[C++](c++/find-minimum-and-maximum-nuber.cpp)|
