@@ -3,10 +3,17 @@
 # Geeks-for-geeks-solutions
 
 In this repository you will find:
-* Generic Practicse solutions 
+* Generic Practicse coding challenges solutions 
 * Amazon coding challenges preparation solutions
 
-My solutions to competitive programming problems in [Geeks for Geeks](https://auth.geeksforgeeks.org/user/davidepollicino/practice/) written using C++, Python and Java.
+My solutions to competitive programming problems in [Geeks for Geeks](https://auth.geeksforgeeks.org/user/davidepollicino/practice/) are written using C++, Python or Java.
+
+## Index of content
+
+1. [Algorithms and Data structures](#Algorithms-and-Data-structures)
+2. [Contribute](#How-to-contribute?)
+3. [Connect with me](#Connect)
+4. [Support me to get more](#Support-me)
 
 ## Algorithms and Data structures
 * [Programming foundamental](#Programming-foundamentals)
@@ -281,14 +288,18 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 3. If your algorithm is of the same time complexity but with reduced code size. In this case, comment out the original solution and make a pull request with your solution.
 4. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the main file and make a pull request.
 
-## Lets' connects
-
-* [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20CompetitiveProgrammigGuide)
-* [Linkedin](https://www.linkedin.com/in/davidepollicino7/)
-* [www.davidepollicino.com](http://davidepollicino.com/)
-
-
 ## Mind that
 Constructive criticisms or code reviews of any kind are very much welcome.
 
 If you have any questions about the solutions you can find here, feel free to contact me at: [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20GeeksForGeeks)
+
+## Connect
+
+* [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20CompetitiveProgrammigGuide)
+* [https://www.linkedin.com/in/davidepollicino7/](https://www.linkedin.com/in/davidepollicino7/)
+* [www.davidepollicino.com](http://davidepollicino.com/)
+
+
+## Suppport me 
+
+[PAYPAL ME](paypal.me/davidepollicino7)
