@@ -159,7 +159,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Compare two linked list|[C++](c++/compare-two-linked-list.cpp)|
 |Count nodes in Liked List |[C++](c++/count-nodes-of-linked-list.cpp)|
 |Count Occurrency|[C++](c++/count-occurrency-linked-list.cpp)|
-|Identical Linked List|[C++](c++/identical-Linked-list.cpp)|
+|**Identical** Linked List|[C++](c++/identical-Linked-list.cpp)|
+|**Delete** a node in **single** linked list|[C++](c++/delete-a-node-in-single-linked-list.cpp)|
 |Insert in sorted linked list|[C++](c++/insert-in-sorted-linked-list.cpp)|
 |linked-list-length-even-or-odd|[C++](c++/linked-list-lenght-even-or-odd.cpp)|
 |Middle Element|[C++](c++/middle-element-linkedlist.cpp)|
@@ -259,6 +260,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |    Name  |  Solution        |
 |----------|:----------------:|
 | Addition under modulo|[C++](c++/addition-under-modulo.cpp)|
+| Power of two checker (using ceil and floor)|[C++](c++/power-of-two-checker.cpp)|
 | Find position of set bit |[C++](c++/find-position-of-set-bit.cpp)|
 | Maximize toys |[C++](c++/maximize-toys.cpp)|
 | Check if k bit is set |[C++](c++/check-if-k-bit-is-set.cpp)|
