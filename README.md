@@ -139,6 +139,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Hello World|[Python](python/helloworld.py)|
 |Contatenate String python|[python](python/concatenating-string.py)|
 |Is Isogram|[C++](c++/isIsogram.cpp)|
+|Consonant and vowals check|[C++](c++/consonant-and-vowals.check.cpp)|
 |C friend function (anagram check)|[C++](c++/c-friend-function.cpp)|
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
 |Repeated chars|[C++](c++/repeate-char.cpp)|
@@ -231,6 +232,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 |Binary Search |[C++](c++/bin-search.cpp)|
 |Min in BST|[C++](c++/min-in-BST.cpp)|
+|Mirror Tree|[C++](c++/mirror-tree.cpp)|
+|Left view of a binary tree|[C++](c++/left-view-of-binary-tree.cpp)|
 |Sum of leaf nodes (Tree)|[C++](c++/sum-of-leaf-nodes.cpp)|
 |Search Element in BST|[C++](c++/search-element-in-bst.cpp)|
 |search-a-node-in-bst|[C++](c++/search-node-bst.cpp)|
