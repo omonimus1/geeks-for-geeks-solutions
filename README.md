@@ -76,6 +76,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Rotate array by n elements|[C++](c++/rotate-array-by-n-elements-1587115621.cpp)|
 |Find min and maximum number|[C++](c++/find-minimum-and-maximum-nuber.cpp)|
 |Count Evens and odds|[C++](c++/count-odd-even.cpp)|
+|Leaders in array|[C++](c++/leaders-in-array.cpp)|
 |Sort array os 0s, 1 and 2s|[C++](c++/sort-arrays-of-0-and-1.cpp)|
 |Reverse the array|[C++](c++/reverse-the-array.cpp)|
 |Need some change|[C++](c++/need-some-chage.cpp)|
@@ -122,9 +123,11 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Count zeros|[C++](c++/count-zeros.cpp)|
+|Search in matrix|[C++](c++/search-in-matrix.cpp)|
 |Max number of 1s in a row|[C++](c++/maximum-no-of-1s-row.cpp.cpp)|
 |Adding two matrices|[C++](c++/adding-two-matrices.cpp)|
-|Transpose matrix|[C++](c++/transpose-of-matrix.cpp)|
+|Transpose matrix (without extraspace)|[C++](c++/transpose-of-matrix.cpp)|
+|Transpose matrix with extra space |[C++](c++/transponse.cpp)|
 |two-dimensional-world|[C++](c++/two-dimensionalworld.cpp)|
 |Rotate Matrix of 90 degrees|[C++](c++/rotate-matrix-of-90-degrees.cpp)|
 
