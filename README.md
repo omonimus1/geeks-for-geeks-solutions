@@ -272,6 +272,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 | Power of two checker (using ceil and floor)|[C++](c++/power-of-two-checker.cpp)|
 | Find position of set bit |[C++](c++/find-position-of-set-bit.cpp)|
 | Maximize toys |[C++](c++/maximize-toys.cpp)|
+| Check wheather kth bit is set(return (n>>k)&1;) |[C++](c++/check-whether-kth-bit-is-set.cpp)|
 | Check if k bit is set |[C++](c++/check-if-k-bit-is-set.cpp)|
 | Absolute Value |[C++](c++/absolute-value.cpp)|
 |Convert Celsius To Fahrenheit|[C++](c++/c-to-f.cpp)|
