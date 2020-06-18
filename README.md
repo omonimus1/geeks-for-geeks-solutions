@@ -213,6 +213,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 |Multimap operations|[C++](c++/multimap-operations.cpp)|
 |Map operations|[C++](c++/map-operations.cpp)|
+|Print distinct element|[C++](c++/print-distinct-element.cpp)|
+
 
 ## Heap
 
@@ -235,6 +237,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 |Binary Search |[C++](c++/bin-search.cpp)|
 |Min in BST|[C++](c++/min-in-BST.cpp)|
+|Kth largest element in BST|[C++](c++/.cpp)|
 |Mirror Tree|[C++](c++/mirror-tree.cpp)|
 |Left view of a binary tree|[C++](c++/left-view-of-binary-tree.cpp)|
 |Sum of leaf nodes (Tree)|[C++](c++/sum-of-leaf-nodes.cpp)|
