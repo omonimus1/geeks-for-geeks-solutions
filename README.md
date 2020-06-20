@@ -69,7 +69,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 ## Array or Vector
 
 |    Name  |  Solution        |
-|----------|:----------------:|
+|----------|:----------------:| 7
 |Sub array with given sum (print index range of the subarray)|[C++](c++/subarray-with-given-sum.cpp)|
 |Check if two arrays are equals|[C++](c++/check-if-two-arrays-are-equals.cpp)|
 |Generate Permutation(single case example)|[C++](c++/generate-permutation.cpp)|
@@ -77,6 +77,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Find min and maximum number|[C++](c++/find-minimum-and-maximum-nuber.cpp)|
 |Count Evens and odds|[C++](c++/count-odd-even.cpp)|
 |Leaders in array|[C++](c++/leaders-in-array.cpp)|
+|Who has the majority element|[C++](c++/who-has-the-majority.cpp)|
 |Sort array os 0s, 1 and 2s|[C++](c++/sort-arrays-of-0-and-1.cpp)|
 |Reverse the array|[C++](c++/reverse-the-array.cpp)|
 |Need some change|[C++](c++/need-some-chage.cpp)|
