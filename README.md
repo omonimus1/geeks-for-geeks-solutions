@@ -79,6 +79,9 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |    Name  |  Solution        |
 |----------|:----------------:| 7
 |Sub array with given sum (print index range of the subarray)|[C++](c++/subarray-with-given-sum.cpp)|
+|Count 1s in sorted array|[C++](c++/count-1-in-sorted-array.cpp)|
+|Search in sorted array|[C++](c++/search-in-sorted-array.cpp)|
+|Search element in array|[C++](c++/search0an0element-in-an-array.cpp)|
 |Check if two arrays are equals|[C++](c++/check-if-two-arrays-are-equals.cpp)|
 |Generate Permutation(single case example)|[C++](c++/generate-permutation.cpp)|
 |Min and max element|[C++](c++/max-and-mimum.cpp)|
@@ -173,6 +176,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 | Display linked list|[C++](c++/display-linked-list.cpp)|
 |Sum of nodes|[C++](c++/sum-of-nodes.cpp)|
+|Max and minimum in linked list|[C++](c++/maximum-and-minimum-in-linked-list.cpp)|
 |Delete tail of linked list|[C++](c++/detele-tail-linked-list.cpp)|
 |Search in Linked list|[C++](c++/search-in-linked-list.cpp)|
 |Learning struct|[C++](c++/learning-struct.cpp)|
