@@ -164,12 +164,15 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 | Reverse words of a given string|[C++](c++/reverse-word-in-given-string.cpp)
 |Given two strings, check if one is the anagram of another|[Java](java/Anagram.java)|
 
-
+| |[C++](c++/.cpp)|
+| |[C++](c++/.cpp)|
 
 ## Linked List
 
 |    Name  |  Solution        |
 |----------|:----------------:|
+| Display linked list|[C++](c++/display-linked-list.cpp)|
+| Search in Linked list|[C++](c++/search-in-linked-list.cpp)|
 |Learning struct|[C++](c++/learning-struct.cpp)|
 |Compare two linked list|[C++](c++/compare-two-linked-list.cpp)|
 |Count nodes in Liked List |[C++](c++/count-nodes-of-linked-list.cpp)|
