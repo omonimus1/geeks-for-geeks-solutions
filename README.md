@@ -172,7 +172,9 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |    Name  |  Solution        |
 |----------|:----------------:|
 | Display linked list|[C++](c++/display-linked-list.cpp)|
-| Search in Linked list|[C++](c++/search-in-linked-list.cpp)|
+|Sum of nodes|[C++](c++/sum-of-nodes.cpp)|
+|Delete tail of linked list|[C++](c++/detele-tail-linked-list.cpp)|
+|Search in Linked list|[C++](c++/search-in-linked-list.cpp)|
 |Learning struct|[C++](c++/learning-struct.cpp)|
 |Compare two linked list|[C++](c++/compare-two-linked-list.cpp)|
 |Count nodes in Liked List |[C++](c++/count-nodes-of-linked-list.cpp)|
