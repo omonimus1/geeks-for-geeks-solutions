@@ -68,7 +68,6 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Count immediate bigger|[C++](c++/count-bigger-than-x.cpp)|
 |Sum of array elements|[C++](c++/sum-of-array-elements.cpp)|
 ||[C++](c++/.cpp)|
-||[C++](c++/.cpp)|
 
 
 
@@ -77,7 +76,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 ## Array or Vector
 
 |    Name  |  Solution        |
-|----------|:----------------:| 7
+|----------|:----------------:| 
 |Sub array with given sum (print index range of the subarray)|[C++](c++/subarray-with-given-sum.cpp)|
 |Count 1s in sorted array|[C++](c++/count-1-in-sorted-array.cpp)|
 |Search in sorted array|[C++](c++/search-in-sorted-array.cpp)|
@@ -150,6 +149,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
       
 |   Name       |  Solution|
 |----------|:----------------:|
+|Reverse string in O(1) space complexity|[C++](c++/reverse-a-string.cpp)|
 |String validation |[Python](python/string/string_validation.py)|
 |Repeat the string|[Python](python/repeat-the-string.py)|
 |Welcome abroad|[Python](python/welcome-abroard-python.py)|
@@ -166,7 +166,6 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Check if a string is Isogram or not|[C++](c++/check-if-string-is-isogram.cpp.cpp)|
 | Reverse words of a given string|[C++](c++/reverse-word-in-given-string.cpp)
 |Given two strings, check if one is the anagram of another|[Java](java/Anagram.java)|
-
 | |[C++](c++/.cpp)|
 | |[C++](c++/.cpp)|
 
@@ -252,6 +251,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Peak element|[C++](c++/peak-element.cpp)|
 |Number of occurrence |[C++](c++/number-of-occurrency.cpp)|
 
+||[C++](c++/.cpp)|
 
 ## Tree-and-Binary-Search-Tree
 
@@ -259,6 +259,9 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 |Binary Search |[C++](c++/bin-search.cpp)|
 |Min in BST|[C++](c++/min-in-BST.cpp)|
+|Inorder of a BST(Binary Search Tree)|[C++](c++/inorder-of-BST.cpp)|
+|PostOrder of a BST|[C++](c++/postOrder-of-BST.cpp)|
+|Preorder of BST|[C++](c++/preOrder-of-BST.cpp)|
 |Kth largest element in BST|[C++](c++/.cpp)|
 |Mirror Tree|[C++](c++/mirror-tree.cpp)|
 |Left view of a binary tree|[C++](c++/left-view-of-binary-tree.cpp)|
