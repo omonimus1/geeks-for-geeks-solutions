@@ -161,9 +161,11 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |C friend function (anagram check)|[C++](c++/c-friend-function.cpp)|
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
 |Repeated chars|[C++](c++/repeate-char.cpp)|
+|Length of a string |[C++](c++/length-of-string.cpp)|
 |Amend the sentece|[C++](c++/amend-the-sentence.cpp)|
 |Remove 'b' and 'ac' from given string|[C++](c++/remove-a-and0ac-from-given-string.cpp)|
 |String sort (Using Quick-sort)|[C++](c++/strin.quicksort.cpp)|
+|Vowels in string |[C++](c++/vowels-in-string.cpp)|
 |Check if a string is Isogram or not|[C++](c++/check-if-string-is-isogram.cpp.cpp)|
 | Reverse words of a given string|[C++](c++/reverse-word-in-given-string.cpp)
 |Given two strings, check if one is the anagram of another|[Java](java/Anagram.java)|
