@@ -181,7 +181,10 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Display circular linked list|[C++](c++/display-circular-linked-list.cpp)|
 |Insert at tail (end) of circular linked list|[C++](c++/insert-tail-circular-linked-list.cpp)|
 |Get length(number of nodes) of a circualr linke list|[C++](c++/get-length-circular-list.cpp)|
+| Delete head of a circular list |[C++](c++/delete-head-of-circular-list.cpp)|
 |Insert at head in a **circular linked list**|[C++](c++/circular-linked-list-head-insert.cpp)|
+|Insert at **end** of a **circular linked list**|[C++](c++/insert-at-the-end-of-circular-linked-list.cpp)|
+|Delete node of Circular list at a specific position|[C++](c++/circular-list-delete-at-position.cpp)|
 |Max and minimum in linked list|[C++](c++/maximum-and-minimum-in-linked-list.cpp)|
 |Delete tail of linked list|[C++](c++/detele-tail-linked-list.cpp)|
 |Search in Linked list|[C++](c++/search-in-linked-list.cpp)|
