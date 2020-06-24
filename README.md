@@ -160,6 +160,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Check if b is an anagram of a|[C++](c++/check-if-b-is-an-anagram-of-a.cpp)|
 |Consonant and vowals check|[C++](c++/consonant-and-vowals.check.cpp)|
 |Lower to upper case|[C++](c++/lower-to-uppercase.cpp)|
+|String validation|[C++](c++/string-validation.cpp)|
 |C friend function (anagram check)|[C++](c++/c-friend-function.cpp)|
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
 |Panagram checking|[C++](c++/panagram-checking.cpp)|
