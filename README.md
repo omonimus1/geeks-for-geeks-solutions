@@ -167,6 +167,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Uppercase to lowercase|[C++](c++/uppercase-to-lowercase.cpp)|
 |Count numnber of words in a string|[C++](c++/count-words-in-string.cpp)|
 |Repeated chars|[C++](c++/repeate-char.cpp)|
+|Count distinct vowels in a string |[C++](c++/count-distinc-vowels.cpp)|
 |Length of a string |[C++](c++/length-of-string.cpp)|
 |Amend the sentece|[C++](c++/amend-the-sentence.cpp)|
 |Remove 'b' and 'ac' from given string|[C++](c++/remove-a-and0ac-from-given-string.cpp)|
