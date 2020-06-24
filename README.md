@@ -162,6 +162,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Lower to upper case|[C++](c++/lower-to-uppercase.cpp)|
 |C friend function (anagram check)|[C++](c++/c-friend-function.cpp)|
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
+|Panagram checking|[C++](c++/panagram-checking.cpp)|
 |Uppercase to lowercase|[C++](c++/uppercase-to-lowercase.cpp)|
 |Count numnber of words in a string|[C++](c++/count-words-in-string.cpp)|
 |Repeated chars|[C++](c++/repeate-char.cpp)|
