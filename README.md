@@ -158,8 +158,11 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Contatenate String python|[python](python/concatenating-string.py)|
 |Is Isogram|[C++](c++/isIsogram.cpp)|
 |Consonant and vowals check|[C++](c++/consonant-and-vowals.check.cpp)|
+|Lower to upper case|[C++](c++/lower-to-uppercase.cpp)|
 |C friend function (anagram check)|[C++](c++/c-friend-function.cpp)|
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
+|Uppercase to lowercase|[C++](c++/uppercase-to-lowercase.cpp)|
+|Count numnber of words in a string|[C++](c++/count-words-in-string.cpp)|
 |Repeated chars|[C++](c++/repeate-char.cpp)|
 |Length of a string |[C++](c++/length-of-string.cpp)|
 |Amend the sentece|[C++](c++/amend-the-sentence.cpp)|
