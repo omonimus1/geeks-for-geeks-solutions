@@ -157,6 +157,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Hello World|[Python](python/helloworld.py)|
 |Contatenate String python|[python](python/concatenating-string.py)|
 |Is Isogram|[C++](c++/isIsogram.cpp)|
+|Check if b is an anagram of a|[C++](c++/check-if-b-is-an-anagram-of-a.cpp)|
 |Consonant and vowals check|[C++](c++/consonant-and-vowals.check.cpp)|
 |Lower to upper case|[C++](c++/lower-to-uppercase.cpp)|
 |C friend function (anagram check)|[C++](c++/c-friend-function.cpp)|
