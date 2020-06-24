@@ -185,6 +185,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 | Display linked list|[C++](c++/display-linked-list.cpp)|
 |Sum of nodes|[C++](c++/sum-of-nodes.cpp)|
+|Linked list, delete note at position t|[C++](c++/linked-list-delete-at-position.cpp)|
+|Remove head single linked list|[C++](c++/remove-head-single-linked-list.cpp)|
 |Display circular linked list|[C++](c++/display-circular-linked-list.cpp)|
 |Insert at tail (end) of circular linked list|[C++](c++/insert-tail-circular-linked-list.cpp)|
 |Get length(number of nodes) of a circualr linke list|[C++](c++/get-length-circular-list.cpp)|
@@ -192,8 +194,11 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Insert at head in a **circular linked list**|[C++](c++/circular-linked-list-head-insert.cpp)|
 |Insert at **end** of a **circular linked list**|[C++](c++/insert-at-the-end-of-circular-linked-list.cpp)|
 |Delete node of Circular list at a specific position|[C++](c++/circular-list-delete-at-position.cpp)|
+|Doubly linked list head insert|[C++](c++/doubly-linked-list-head-insert.cpp)|
+|Doubly linked list tail insert|[C++](c++/doubly-linked-list-tail-insert.cpp)|
 |Max and minimum in linked list|[C++](c++/maximum-and-minimum-in-linked-list.cpp)|
 |Delete tail of linked list|[C++](c++/detele-tail-linked-list.cpp)|
+|Display double linked list forward and backward|[C++](c++/display-double-linked-list-forward-and-backward.cpp)|
 |Search in Linked list|[C++](c++/search-in-linked-list.cpp)|
 |Learning struct|[C++](c++/learning-struct.cpp)|
 |Compare two linked list|[C++](c++/compare-two-linked-list.cpp)|
