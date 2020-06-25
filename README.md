@@ -195,10 +195,14 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Insert at **end** of a **circular linked list**|[C++](c++/insert-at-the-end-of-circular-linked-list.cpp)|
 |Delete node of Circular list at a specific position|[C++](c++/circular-list-delete-at-position.cpp)|
 |Doubly linked list head insert|[C++](c++/doubly-linked-list-head-insert.cpp)|
+|Display circular double linked list|[C++](c++/display-double-circular-linked-list.cpp)|
 |Doubly linked list tail insert|[C++](c++/doubly-linked-list-tail-insert.cpp)|
 |Max and minimum in linked list|[C++](c++/maximum-and-minimum-in-linked-list.cpp)|
 |Delete tail of linked list|[C++](c++/detele-tail-linked-list.cpp)|
 |Display double linked list forward and backward|[C++](c++/display-double-linked-list-forward-and-backward.cpp)|
+|Get middle element of circular  double linked list|[C++](c++/get_middle_element_of_circular_double_linked-list.cpp)|
+|Delete head of doubly linked list |[C++](c++/delete-head-of-doubly-linked-list.cpp)|
+|delete-tail-of-doubly-linked-list.cpp|[C++](c++/delete-tail-of-doubly-linked-list.cpp)|
 |Search in Linked list|[C++](c++/search-in-linked-list.cpp)|
 |Learning struct|[C++](c++/learning-struct.cpp)|
 |Compare two linked list|[C++](c++/compare-two-linked-list.cpp)|
