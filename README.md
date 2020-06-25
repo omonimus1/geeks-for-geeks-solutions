@@ -59,6 +59,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Operators in python|[Python](python/operators-in-python.py)|
 |Step-by-step-condition|[C++](c++/step-by-step-condition.cpp)|
 |Learn to Comment|[C++](c++/learn-to-comment.cpp)|
+|Print from 1 to N using recursion|[C++](c++/print-from-1-to-n-using-recursion.cpp)|
 |Swap the objects|[C++](c++/swap-the-objects.cpp)|
 |While Loop print table|[C++](c++/while-loop-print-table.cpp)|
 |Prime check |[C++](c++/prime-check.cpp)|
@@ -85,6 +86,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Check if two arrays are equals|[C++](c++/check-if-two-arrays-are-equals.cpp)|
 |Generate Permutation(single case example)|[C++](c++/generate-permutation.cpp)|
 |Min and max element|[C++](c++/max-and-mimum.cpp)|
+|Find transition point|[C++](c++/find-transition-point.cpp)|
 |Mean and median of an array|[C++](c++/mean-and-median.cpp)|
 |Rotate array by n elements|[C++](c++/rotate-array-by-n-elements-1587115621.cpp)|
 |Find min and maximum number|[C++](c++/find-minimum-and-maximum-nuber.cpp)|
@@ -375,6 +377,6 @@ If you have any questions about the solutions you can find here, feel free to co
 * [www.davidepollicino.com](http://davidepollicino.com/)
 
 
-## Suppport
+## Support
 
-[PAYPAL ME](paypal.me/davidepollicino7)
+[PAYPAL ME](https://paypal.me/davidepollicino7?locale.x=en_US)
