@@ -227,12 +227,15 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Remove node without having reference of the head node|[C++](c++/delete-node-without-head-pointer.cpp.cpp)|
 
 
-
 ## Stack
 
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Stack designer|[C++](c++/stack-designer.cpp)|
+|Operations on stack|[C++](c++/operations-on-stack.cpp)|
+|Insert in stack|[C++](c++/insert-in-stack.cpp)|
+|Middle of stack|[C++](c++/middle-of-stack.cpp)|
+|Reverse array using stack|[C++](c++/reverse-array-using-stack.cpp)|
 |Reverse string using Stack|[C++](c++/reverse-string-with-stack.cpp)|
 
 
