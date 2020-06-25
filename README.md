@@ -187,12 +187,14 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 | Display linked list|[C++](c++/display-linked-list.cpp)|
 |Sum of nodes|[C++](c++/sum-of-nodes.cpp)|
+|Join two linked list|[C++](c++/join-two-linked-list.cpp)|
 ||[C++](c++/delete-tail-of-circular-linked-list.cpp)|
 |Linked list, delete note at position t|[C++](c++/linked-list-delete-at-position.cpp)|
 |Remove head single linked list|[C++](c++/remove-head-single-linked-list.cpp)|
 |Display circular linked list|[C++](c++/display-circular-linked-list.cpp)|
 |Compare two circular doubly linked list|[C++](c++/compare-circular-doubly-linked-list.cpp)|
 |Insert at tail (end) of circular linked list|[C++](c++/insert-tail-circular-linked-list.cpp)|
+|Insert in middle of linked list|[C++](c++/insert-in-middle-of-linked-list.cpp)|
 |Get length(number of nodes) of a circualr linke list|[C++](c++/get-length-circular-list.cpp)|
 | Delete head of a circular list |[C++](c++/delete-head-of-circular-list.cpp)|
 |Insert at head in a **circular linked list**|[C++](c++/circular-linked-list-head-insert.cpp)|
