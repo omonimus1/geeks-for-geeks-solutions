@@ -292,11 +292,13 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 |Binary Search |[C++](c++/bin-search.cpp)|
 |Min in BST|[C++](c++/min-in-BST.cpp)|
+|Level order of a binary search tree|[C++](c++/level-order-of-binary-search-tree.cpp)|
 |Inorder of a BST(Binary Search Tree)|[C++](c++/inorder-of-BST.cpp)|
 |PostOrder of a BST|[C++](c++/postOrder-of-BST.cpp)|
 |Preorder of BST|[C++](c++/preOrder-of-BST.cpp)|
 |Kth largest element in BST|[C++](c++/.cpp)|
 |Mirror Tree|[C++](c++/mirror-tree.cpp)|
+|Level order traversal of a tree|[C++](c++/tree-level-order-traversal.cpp)|
 |Left view of a binary tree|[C++](c++/left-view-of-binary-tree.cpp)|
 |Sum of leaf nodes (Tree)|[C++](c++/sum-of-leaf-nodes.cpp)|
 |Search Element in BST|[C++](c++/search-element-in-bst.cpp)|
@@ -321,6 +323,9 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 |Sum of depenncies in a graph |[C++](c++/sum_of_depencies.cpp)|
 | BFS of a graph |[C++](c++/bfs-graph.cpp)|
+|Print adjacency list|[C++](c++/print-adjacency-list.cpp)|
+| |[C++](c++/.cpp)|
+
 
 ## Math and BitMagic
 
