@@ -214,6 +214,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |delete-tail-of-doubly-linked-list.cpp|[C++](c++/delete-tail-of-doubly-linked-list.cpp)|
 |Search in Linked list|[C++](c++/search-in-linked-list.cpp)|
 |Learning struct|[C++](c++/learning-struct.cpp)|
+|Insert node in doubly-linked-list|[C++](c++/insert-a-node-in-doubly-linked-list.cpp)|
+|Is doubly doubly linked list circular|[C++](c++/is-the-doubly-linked-list-circular.cpp)|
 |Compare two linked list|[C++](c++/compare-two-linked-list.cpp)|
 |Count nodes in Liked List |[C++](c++/count-nodes-of-linked-list.cpp)|
 |Count Occurrency|[C++](c++/count-occurrency-linked-list.cpp)|
