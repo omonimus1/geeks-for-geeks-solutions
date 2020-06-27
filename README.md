@@ -248,6 +248,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Middle of stack|[C++](c++/middle-of-stack.cpp)|
 |Reverse array using stack|[C++](c++/reverse-array-using-stack.cpp)|
 |Reverse string using Stack|[C++](c++/reverse-string-with-stack.cpp)|
+|Implement stack with array|[C++](c++/stack-implementation-with-array.cpp)|
 
 
 
