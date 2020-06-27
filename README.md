@@ -249,6 +249,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Reverse array using stack|[C++](c++/reverse-array-using-stack.cpp)|
 |Reverse string using Stack|[C++](c++/reverse-string-with-stack.cpp)|
 |Implement stack with array|[C++](c++/stack-implementation-with-array.cpp)|
+|Implement stack using Linked List|[C++](c++/implement-stack-using-linked-list.cpp)|
 
 
 
@@ -258,7 +259,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 |Queue Designer - Queue Push & Pop|[C++](c++/queue-designer.cpp)|
 |Dequeu implementation|[C++](c++/deque-implementation.cpp)|
-
+|Implement queue using linked list|[C++](c++/implement-queue-using-linked-list.cpp)|
 
 ## Set
 
