@@ -87,6 +87,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Check if two arrays are equals|[C++](c++/check-if-two-arrays-are-equals.cpp)|
 |Generate Permutation(single case example)|[C++](c++/generate-permutation.cpp)|
 |Min and max element|[C++](c++/max-and-mimum.cpp)|
+|Union of two sorted array|[C++](c++/union-of-two-sorted-arrays-1587115621.cpp)|
 |Index of an extra element|[C++](c++/index-of-an-extra-element.cpp)|
 |Binary array sorting|[C++](c++/binary-array-sorting.cpp)|
 |Find transition point|[C++](c++/find-transition-point.cpp)|
@@ -191,7 +192,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 | Display linked list|[C++](c++/display-linked-list.cpp)|
 |Sum of nodes|[C++](c++/sum-of-nodes.cpp)|
 |Join two linked list|[C++](c++/join-two-linked-list.cpp)|
-||[C++](c++/delete-tail-of-circular-linked-list.cpp)|
+|Delete tail of circular linked list|[C++](c++/delete-tail-of-circular-linked-list.cpp)|
+|Delete middle of linked list|[C++](c++/delete-middle-of-linked-list.cpp)|
 |Linked list, delete note at position t|[C++](c++/linked-list-delete-at-position.cpp)|
 |Remove head single linked list|[C++](c++/remove-head-single-linked-list.cpp)|
 |Display circular linked list|[C++](c++/display-circular-linked-list.cpp)|
@@ -214,6 +216,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |delete-tail-of-doubly-linked-list.cpp|[C++](c++/delete-tail-of-doubly-linked-list.cpp)|
 |Search in Linked list|[C++](c++/search-in-linked-list.cpp)|
 |Learning struct|[C++](c++/learning-struct.cpp)|
+|Insert node in doubly linked list|[C++](c++/insert-node-in-doubly-linked-list.cpp)|
 |Insert node in doubly-linked-list|[C++](c++/insert-a-node-in-doubly-linked-list.cpp)|
 |Is doubly doubly linked list circular|[C++](c++/is-the-doubly-linked-list-circular.cpp)|
 |Compare two linked list|[C++](c++/compare-two-linked-list.cpp)|
