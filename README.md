@@ -73,8 +73,6 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 
 
 
-
-
 ## Array or Vector
 
 |    Name  |  Solution        |
@@ -83,10 +81,14 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Count 1s in sorted array|[C++](c++/count-1-in-sorted-array.cpp)|
 |Search in sorted array|[C++](c++/search-in-sorted-array.cpp)|
 |Insert at end of array|[C++](c++/array-insert-at-end.cpp)|
+|Remove duplicate elements|[C++](c++/remove-duplicate-elements.cpp)|
 |Search element in array|[C++](c++/search0an0element-in-an-array.cpp)|
 |Check if two arrays are equals|[C++](c++/check-if-two-arrays-are-equals.cpp)|
 |Generate Permutation(single case example)|[C++](c++/generate-permutation.cpp)|
 |Min and max element|[C++](c++/max-and-mimum.cpp)|
+|Is array sorted|[C++](c++/is-array-sorted.cpp)|
+|Array insert at index|[C++](c++/array-insert-at-index.cpp)|
+|Merge two sorted arrays O(1) space |[C++](c++/merge-two-sorted-arrays.cpp)|
 |Union of two sorted array|[C++](c++/union-of-two-sorted-arrays-1587115621.cpp)|
 |Index of an extra element|[C++](c++/index-of-an-extra-element.cpp)|
 |Binary array sorting|[C++](c++/binary-array-sorting.cpp)|
@@ -253,7 +255,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Reverse string using Stack|[C++](c++/reverse-string-with-stack.cpp)|
 |Implement stack with array|[C++](c++/stack-implementation-with-array.cpp)|
 |Implement stack using Linked List|[C++](c++/implement-stack-using-linked-list.cpp)|
-
+|Sort a stack|[C++](c++/sort-a-stack.cpp)|
 
 
 ## Queue and Dequeu
