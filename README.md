@@ -59,6 +59,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Cat and hat[Python](python/cat-and-hat-python.py)|
 |For loop2 (index jumper)|[Python](python/for-loop-jumper.py)|
 |Operators in python|[Python](python/operators-in-python.py)|
+|JUmping through while|[Python](python/jumping-though-while.py)|
 |Step-by-step-condition|[C++](c++/step-by-step-condition.cpp)|
 |Learn to Comment|[C++](c++/learn-to-comment.cpp)|
 |Print from 1 to N using recursion|[C++](c++/print-from-1-to-n-using-recursion.cpp)|
