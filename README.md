@@ -56,6 +56,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Logical operators|[Python](python/logical-operators.py)|
 |Sep -Space separate|[Python](python/space-separate.py)|
 |Comment in python|[Python](python/comment-in-python.py)|
+|Cat and hat[Python](python/cat-and-hat-python.py)|
+|For loop2 (index jumper)|[Python](python/for-loop-jumper.py)|
 |Operators in python|[Python](python/operators-in-python.py)|
 |Step-by-step-condition|[C++](c++/step-by-step-condition.cpp)|
 |Learn to Comment|[C++](c++/learn-to-comment.cpp)|
@@ -79,6 +81,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 
 ||[C++](c++/.cpp)|
 
+||[Python](python/.py)|
 
 
 ## Array or Vector
