@@ -63,12 +63,20 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Swap the objects|[C++](c++/swap-the-objects.cpp)|
 |Array update by index|[C++](c++/array-update-by-index.cpp)|
 |While Loop print table|[C++](c++/while-loop-print-table.cpp)|
+|New line|[C++](c++/new_line.cpp)|
 |Prime check |[C++](c++/prime-check.cpp)|
 |Get array element at index|[C++](c++/get_element_at_index.cpp)|
 |Count smaller than x|[C++](c++/count-smaller-than-x.cpp)|
 |Count bigger than x|[C++](c++/count-bigger-than-x.cpp)|
 |Count immediate bigger|[C++](c++/count-bigger-than-x.cpp)|
 |Sum of array elements|[C++](c++/sum-of-array-elements.cpp)|
+|Taking input|[C++](c++/taking-inputs.cpp)|
+|Logical operators|[C++](c++/logical_operators.cpp)|
+|Bitwise operator|[C++](c++/bitwise-operator.cpp)|
+|Even odd|[C++](c++/even-odd.cpp)|
+
+
+
 ||[C++](c++/.cpp)|
 
 
