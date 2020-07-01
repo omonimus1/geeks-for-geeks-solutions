@@ -383,7 +383,10 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |the-dice-problem|[C++](c++/the-dice-problem.cpp)|
 |for-loop-prime-check|[Java](java/for-loop-prime-check.java)|
 |Sum digits of a number|[Python](python/sum_to_digits.py)|
+|Find first set bit|[C++](c++/find-first-set-bit-final2.cpp)|
 
+
+| |[C++](c++/.cpp)|
 
 ## Contribute
 1. Fork the repository
