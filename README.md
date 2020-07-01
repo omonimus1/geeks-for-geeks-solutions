@@ -278,6 +278,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Dequeu implementation|[C++](c++/deque-implementation.cpp)|
 |Implement queue using linked list|[C++](c++/implement-queue-using-linked-list.cpp)|
 |Reverse first K elements of a queue|[C++](c++/reverse-first-k-elements-of-queue.cpp)|
+|Queue reversal (Reverse content of a Queue)|[C++](c++/queue-reversal.cpp)|
 
 
 ## Set
