@@ -297,6 +297,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Map operations|[C++](c++/map-operations.cpp)|
 |Print distinct element|[C++](c++/print-distinct-element.cpp)|
 |Count NON repeating elements|[C++](c++/count-non-repeating-elements.cpp )|
+|Non repeating character|[C++](c++/non-repeating-character.cpp)|
+
 | |[C++](c++/ )|
 
 
