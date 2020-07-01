@@ -99,6 +99,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Generate Permutation(single case example)|[C++](c++/generate-permutation.cpp)|
 |Min and max element|[C++](c++/max-and-mimum.cpp)|
 |Is array sorted|[C++](c++/is-array-sorted.cpp)|
+|Array delete and shift|[C++](c++/array-delete-and-shift.cpp)|
 |Array insert at index|[C++](c++/array-insert-at-index.cpp)|
 |Merge two sorted arrays O(1) space |[C++](c++/merge-two-sorted-arrays.cpp)|
 |Union of two sorted array|[C++](c++/union-of-two-sorted-arrays-1587115621.cpp)|
