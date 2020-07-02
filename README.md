@@ -150,6 +150,9 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Count the zeros|[C++](c++/counte-the-zeros.cpp)|
 |Bubble sort|[C++](c++/bubble_sort.cpp)|
 |Rotate Matrix by 90 degrees- clowise|[C++](c++/rotate-matrixe-clowise.cpp)|
+|Bubble sort|[C++](c++/bubble-sort.cpp)|
+|Merge sort|[C++](c++/merge-sort.cpp)|
+|Binary array sorting|[C++](c++/binary-array-sorting2.cpp)|
 
 
 
@@ -178,6 +181,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Hello World|[Python](python/helloworld.py)|
 |Contatenate String python|[python](python/concatenating-string.py)|
 |Is Isogram|[C++](c++/isIsogram.cpp)|
+|Missing characters in panagram|[C++](c++/missing-characters-in-panagram.cpp)|
 |Check if b is an anagram of a|[C++](c++/check-if-b-is-an-anagram-of-a.cpp)|
 |Consonant and vowals check|[C++](c++/consonant-and-vowals.check.cpp)|
 |Lower to upper case|[C++](c++/lower-to-uppercase.cpp)|
@@ -299,7 +303,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Count NON repeating elements|[C++](c++/count-non-repeating-elements.cpp )|
 |Non repeating character|[C++](c++/non-repeating-character.cpp)|
 
-| |[C++](c++/ )|
+| |[C++](c++/.cpp)|
 
 
 ## Heap
