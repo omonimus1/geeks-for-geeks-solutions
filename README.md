@@ -77,6 +77,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Logical operators|[C++](c++/logical_operators.cpp)|
 |Bitwise operator|[C++](c++/bitwise-operator.cpp)|
 |Even odd|[C++](c++/even-odd.cpp)|
+|data tpes|[C++](c++/data-types.cpp)|
 
 
 
@@ -120,7 +121,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |pair-sum-in-vector|[C++](c++/pair-sum-vector.cpp)|
 |rotate-array-by-n-elements|[C++](c++/rotate-array-by-n-element.cpp)|
 |Sort and Reverse|[C++](c++/sort-and-reverse.cpp)|
-|Back to front|[C++](c++/back-to-front.cpp)|
+|Back to front|[C++](c++/back-to-front.cpp)|   
 |Front to back|[C++](c++/front-to-back.cpp)|
 |Count smaller element|[C++](c++/count-smaller-elements.cpp)|
 |Facing the sun|[C++](c++/facing-the-sun.cpp)|
@@ -210,6 +211,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 | Display linked list|[C++](c++/display-linked-list.cpp)|
 |Sum of nodes|[C++](c++/sum-of-nodes.cpp)|
+|Sorted insert for circular linked list|[C++](c++/sorted-insert-for-circular-linked-list.cpp)|
 |Join two linked list|[C++](c++/join-two-linked-list.cpp)|
 |Delete tail of circular linked list|[C++](c++/delete-tail-of-circular-linked-list.cpp)|
 |Delete middle of linked list|[C++](c++/delete-middle-of-linked-list.cpp)|
@@ -273,6 +275,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Implement stack with array|[C++](c++/stack-implementation-with-array.cpp)|
 |Implement stack using Linked List|[C++](c++/implement-stack-using-linked-list.cpp)|
 |Sort a stack|[C++](c++/sort-a-stack.cpp)|
+|Removing consecutive characters|[C++](c++/removing-consecutive-duplicates.cpp)|
 
 
 ## Queue and Dequeu
@@ -284,6 +287,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Implement queue using linked list|[C++](c++/implement-queue-using-linked-list.cpp)|
 |Reverse first K elements of a queue|[C++](c++/reverse-first-k-elements-of-queue.cpp)|
 |Queue reversal (Reverse content of a Queue)|[C++](c++/queue-reversal.cpp)|
+|Operations in queue|[C++](c++/operations-on-queue.cpp)|
 
 
 ## Set
@@ -292,6 +296,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 |Set operations|[C++](c++/set-operations.cpp)|
 |Multiset Operator|[C++](c++/multiset-operator.cpp)|
+
 
 ## Map
 
@@ -367,6 +372,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 
 |    Name  |  Solution        |
 |----------|:----------------:|
+|Multiplication under modulo|[C++](c++/multiplication-under-modulo.cpp)|
 | Addition under modulo|[C++](c++/addition-under-modulo.cpp)|
 | Power of two checker (using ceil and floor)|[C++](c++/power-of-two-checker.cpp)|
 | Find position of set bit |[C++](c++/find-position-of-set-bit.cpp)|
