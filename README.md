@@ -33,6 +33,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 * [Graph](#Graph)
 * [Math and Bit Magic](#Math-and-BitMagic)
 * [Prime Numbers](#Prime-numbers)
+* [Recursion](#Recursion)
 
 
 ## Programming foundamentals
@@ -399,6 +400,15 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Find first set bit|[C++](c++/find-first-set-bit-final2.cpp)|
 
 
+| |[C++](c++/.cpp)|
+
+## Recursion
+
+|    Name  |  Solution        |
+|----------|:----------------:|
+|COunt number of digits using recursion|[C++](c++/number-of-digits.cpp)|
+| |[C++](c++/.cpp)|
+| |[C++](c++/.cpp)|
 | |[C++](c++/.cpp)|
 
 ## Contribute
