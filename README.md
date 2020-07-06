@@ -95,6 +95,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Count 1s in sorted array|[C++](c++/count-1-in-sorted-array.cpp)|
 |Search in sorted array|[C++](c++/search-in-sorted-array.cpp)|
 |Insert at end of array|[C++](c++/array-insert-at-end.cpp)|
+|Equilibrium point|[C++](c++/equilibrium-point.cpp)|
 |Remove duplicate elements|[C++](c++/remove-duplicate-elements.cpp)|
 |Search element in array|[C++](c++/search0an0element-in-an-array.cpp)|
 |Check if two arrays are equals|[C++](c++/check-if-two-arrays-are-equals.cpp)|
@@ -308,6 +309,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Print distinct element|[C++](c++/print-distinct-element.cpp)|
 |Count NON repeating elements|[C++](c++/count-non-repeating-elements.cpp )|
 |Non repeating character|[C++](c++/non-repeating-character.cpp)|
+|First repeating element|[C++](c++/first-repeating-element2.cpp)|
 
 | |[C++](c++/.cpp)|
 
@@ -334,6 +336,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 |Binary Search |[C++](c++/bin-search.cpp)|
 |Min in BST|[C++](c++/min-in-BST.cpp)|
+|Level Order(Splitting every line with '$'|[C++](c++/level-order-tree2.cpp)|
 |Level order of a binary search tree|[C++](c++/level-order-of-binary-search-tree.cpp)|
 |Inorder of a BST(Binary Search Tree)|[C++](c++/inorder-of-BST.cpp)|
 |PostOrder of a BST|[C++](c++/postOrder-of-BST.cpp)|
