@@ -390,6 +390,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Convert Celsius To Fahrenheit|[C++](c++/c-to-f.cpp)|
 |Count numbers divisible by M|[C++](c++/count-numbers-divisible-by-m.cpp)|
 |armstrong-numbers|[C++](c++/ambstrong.cpp)|
+||Sqare root[C++](c++/sqare-rooot.cpp)|
 |automorphic numbers|[C++](c++/automorphic-number.cpp)|
 |For loop prime check|[C++](c++/for-loop-prime-check.cpp)|
 |Int-to-binary|[C++](c++/int-to-binary.cpp)|
