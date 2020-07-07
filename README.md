@@ -154,6 +154,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Maximum product of two numbers|[C++](c++/maximum-product-of-tw-numbers.cpp)|
 |Count the zeros|[C++](c++/counte-the-zeros.cpp)|
 |Bubble sort|[C++](c++/bubble_sort.cpp)|
+|Amazon binary array sortiong|[C++](c++/binary-arrays-sorting.cpp)|
 |Rotate Matrix by 90 degrees- clowise|[C++](c++/rotate-matrixe-clowise.cpp)|
 |Bubble sort|[C++](c++/bubble-sort.cpp)|
 |Merge sort|[C++](c++/merge-sort.cpp)|
