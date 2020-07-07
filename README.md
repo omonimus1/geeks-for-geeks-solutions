@@ -194,6 +194,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |C friend function (anagram check)|[C++](c++/c-friend-function.cpp)|
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
 |Panagram checking|[C++](c++/panagram-checking.cpp)|
+|Repeating characer first appearance leftmost|[C++](c++/repeating-character-first-appearance-leftmost.cpp)|
 |Uppercase to lowercase|[C++](c++/uppercase-to-lowercase.cpp)|
 |Count numnber of words in a string|[C++](c++/count-words-in-string.cpp)|
 |Repeated chars|[C++](c++/repeate-char.cpp)|
@@ -384,6 +385,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 | Power of two checker (using ceil and floor)|[C++](c++/power-of-two-checker.cpp)|
 | Find position of set bit |[C++](c++/find-position-of-set-bit.cpp)|
 | Maximize toys |[C++](c++/maximize-toys.cpp)|
+|Factorial of a number|[C++](c++/factorial_of_a_number.cpp)|
 | Check wheather kth bit is set(return (n>>k)&1;) |[C++](c++/check-whether-kth-bit-is-set.cpp)|
 | Check if k bit is set |[C++](c++/check-if-k-bit-is-set.cpp)|
 | Absolute Value |[C++](c++/absolute-value.cpp)|
