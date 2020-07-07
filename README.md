@@ -96,6 +96,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Search in sorted array|[C++](c++/search-in-sorted-array.cpp)|
 |Insert at end of array|[C++](c++/array-insert-at-end.cpp)|
 |Equilibrium point|[C++](c++/equilibrium-point.cpp)|
+|Left index|[C++](c++/left_index.cpp)|
+|Count only repeated elements|[C++](c++/count-repeated-element.cpp)|
 |Remove duplicate elements|[C++](c++/remove-duplicate-elements.cpp)|
 |Search element in array|[C++](c++/search0an0element-in-an-array.cpp)|
 |Check if two arrays are equals|[C++](c++/check-if-two-arrays-are-equals.cpp)|
@@ -213,6 +215,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |----------|:----------------:|
 | Display linked list|[C++](c++/display-linked-list.cpp)|
 |Sum of nodes|[C++](c++/sum-of-nodes.cpp)|
+|Linked list insert|[C++](c++/linked-list-insert.cpp)|
 |Sorted insert for circular linked list|[C++](c++/sorted-insert-for-circular-linked-list.cpp)|
 |Join two linked list|[C++](c++/join-two-linked-list.cpp)|
 |Delete tail of circular linked list|[C++](c++/delete-tail-of-circular-linked-list.cpp)|
