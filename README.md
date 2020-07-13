@@ -80,9 +80,9 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Even odd|[C++](c++/even-odd.cpp)|
 |data tpes|[C++](c++/data-types.cpp)|
 
-
-
 ||[C++](c++/.cpp)|
+
+
 
 ||[Python](python/.py)|
 
@@ -97,6 +97,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Insert at end of array|[C++](c++/array-insert-at-end.cpp)|
 |Equilibrium point|[C++](c++/equilibrium-point.cpp)|
 |Left index|[C++](c++/left_index.cpp)|
+|Find unique element|[C++](c++/find-unique-element.cpp)|
 |Count only repeated elements|[C++](c++/count-repeated-element.cpp)|
 |Remove duplicate elements|[C++](c++/remove-duplicate-elements.cpp)|
 |Search element in array|[C++](c++/search0an0element-in-an-array.cpp)|
