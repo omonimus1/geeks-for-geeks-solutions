@@ -97,6 +97,9 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Insert at end of array|[C++](c++/array-insert-at-end.cpp)|
 |Equilibrium point|[C++](c++/equilibrium-point.cpp)|
 |Left index|[C++](c++/left_index.cpp)|
+|Multiply left and right array sum|[C++](c++/multiply-left-and-right-array-sum.cpp)|
+|Greater on right side|[C++](c++/greater-on-right-side.cpp)|
+|Minimum product pair|[C++](c++/minimum-product-pair.cpp)|
 |Find unique element|[C++](c++/find-unique-element.cpp)|
 |Count only repeated elements|[C++](c++/count-repeated-element.cpp)|
 |Remove duplicate elements|[C++](c++/remove-duplicate-elements.cpp)|
@@ -284,6 +287,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Implement stack using Linked List|[C++](c++/implement-stack-using-linked-list.cpp)|
 |Sort a stack|[C++](c++/sort-a-stack.cpp)|
 |Removing consecutive characters|[C++](c++/removing-consecutive-duplicates.cpp)|
+|Remove repaeated consecutive digits in a number|[C++](c++/remove-repeated-consecutive-digits.cpp)|
 
 
 ## Queue and Dequeu
