@@ -108,6 +108,7 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Generate Permutation(single case example)|[C++](c++/generate-permutation.cpp)|
 |Min and max element|[C++](c++/max-and-mimum.cpp)|
 |Is array sorted|[C++](c++/is-array-sorted.cpp)|
+|Balanced array|[C++](c++/balanced-array.cpp)|
 |Array delete and shift|[C++](c++/array-delete-and-shift.cpp)|
 |Array insert at index|[C++](c++/array-insert-at-index.cpp)|
 |Merge two sorted arrays O(1) space |[C++](c++/merge-two-sorted-arrays.cpp)|
