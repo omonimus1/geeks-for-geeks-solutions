@@ -327,6 +327,7 @@ In this repository you will find:
 |Count NON repeating elements|[C++](c++/count-non-repeating-elements.cpp )|
 |Non repeating character|[C++](c++/non-repeating-character.cpp)|
 |First repeating element|[C++](c++/first-repeating-element2.cpp)|
+|First eleemnt to accout k times|[C++](c++/first-element-to-occur-k-times.cpp)|
 
 | |[C++](c++/.cpp)|
 
