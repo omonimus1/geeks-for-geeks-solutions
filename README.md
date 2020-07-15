@@ -98,6 +98,8 @@ In this repository you will find:
 |Insert at end of array|[C++](c++/array-insert-at-end.cpp)|
 |Equilibrium point|[C++](c++/equilibrium-point.cpp)|
 |Left index|[C++](c++/left_index.cpp)|
+|Product of array element|[C++](c++/product-of-array-element.cpp)|
+|Index of first 1 in sorted boolean array|[C++](c++/index-of-first-1-in-a-sorted-array-of-0s-and-1s.cpp)|
 |Find number of numbers|[C++](c++/find-number-of-numbers.cpp)|
 |Sum of distinct element|[C++](c++/sum-of-distinct-element.cpp)|
 |Multiply left and right array sum|[C++](c++/multiply-left-and-right-array-sum.cpp)|
@@ -328,6 +330,7 @@ In this repository you will find:
 |Non repeating character|[C++](c++/non-repeating-character.cpp)|
 |First repeating element|[C++](c++/first-repeating-element2.cpp)|
 |First eleemnt to accout k times|[C++](c++/first-element-to-occur-k-times.cpp)|
+|Find the odd occurrenci|[C++](c++/find-odd-occurrenci.cpp)|
 
 | |[C++](c++/.cpp)|
 
