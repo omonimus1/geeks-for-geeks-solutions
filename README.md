@@ -219,15 +219,18 @@ In this repository you will find:
 | |[C++](c++/.cpp)|
 | |[C++](c++/.cpp)|
 
+
 ## Linked List
 
 |    Name  |  Solution        |
 |----------|:----------------:|
 | Display linked list|[C++](c++/display-linked-list.cpp)|
 |Sum of nodes|[C++](c++/sum-of-nodes.cpp)|
+|Find nk-th node in linked list|[C++](c++/find-nk-th-node-in-linked-list.cpp)|
 |Linked list insert|[C++](c++/linked-list-insert.cpp)|
 |Sorted insert for circular linked list|[C++](c++/sorted-insert-for-circular-linked-list.cpp)|
 |Join two linked list|[C++](c++/join-two-linked-list.cpp)|
+|Modular Node|[C++](c++/modular-node.cpp)|
 |Delete tail of circular linked list|[C++](c++/delete-tail-of-circular-linked-list.cpp)|
 |Delete middle of linked list|[C++](c++/delete-middle-of-linked-list.cpp)|
 |Linked list, delete note at position t|[C++](c++/linked-list-delete-at-position.cpp)|
