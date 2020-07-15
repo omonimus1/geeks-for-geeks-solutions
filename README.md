@@ -4,9 +4,10 @@
 
 In this repository you will find:
 * Generic Practicse coding challenges solutions 
-* Amazon coding challenges preparation solutions
+* Amazon SDE preparation solutions
 
-My solutions to competitive programming problems in [Geeks for Geeks](https://auth.geeksforgeeks.org/user/davidepollicino/practice/) are written using C++, Python or Java.
+## Author
+* Davide Pollicino [GeeksForGeeks profile](https://auth.geeksforgeeks.org/user/davidepollicino/practice/).
 
 ## Index of content
 
@@ -97,6 +98,8 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 |Insert at end of array|[C++](c++/array-insert-at-end.cpp)|
 |Equilibrium point|[C++](c++/equilibrium-point.cpp)|
 |Left index|[C++](c++/left_index.cpp)|
+|Find number of numbers|[C++](c++/find-number-of-numbers.cpp)|
+|Sum of distinct element|[C++](c++/sum-of-distinct-element.cpp)|
 |Multiply left and right array sum|[C++](c++/multiply-left-and-right-array-sum.cpp)|
 |Greater on right side|[C++](c++/greater-on-right-side.cpp)|
 |Minimum product pair|[C++](c++/minimum-product-pair.cpp)|
@@ -428,9 +431,10 @@ My solutions to competitive programming problems in [Geeks for Geeks](https://au
 | |[C++](c++/.cpp)|
 
 ## Contribute
-1. Fork the repository
-2. Do the desired changes (add/delete/modify)
-3. Make a pull request
+1. Star the repositor
+2. Fork the repository
+3. Do the desired changes 
+4. Make a pull request
 
 ## Contribution essentials note:
 * The first row of the solution must contain a comment with the link to the problem
