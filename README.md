@@ -191,6 +191,7 @@ In this repository you will find:
 |   Name       |  Solution|
 |----------|:----------------:|
 |Reverse string in O(1) space complexity|[C++](c++/reverse-a-string.cpp)|
+|Display longest name|[C++](c++/display-longest-name.cpp)|
 |String validation |[Python](python/string/string_validation.py)|
 |Repeat the string|[Python](python/repeat-the-string.py)|
 |Welcome abroad|[Python](python/welcome-abroard-python.py)|

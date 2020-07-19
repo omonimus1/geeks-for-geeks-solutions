@@ -1,0 +1,1 @@
+//  https://practice.geeksforgeeks.org/problems/product-of-array-element/1
