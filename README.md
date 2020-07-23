@@ -229,6 +229,7 @@ In this repository you will find:
 |----------|:----------------:|
 | Display linked list|[C++](c++/display-linked-list.cpp)|
 |Sum of nodes|[C++](c++/sum-of-nodes.cpp)|
+|Pair swap of a linked list|[C++](c++/pair-swap-linked-list.cpp)|
 |Find nk-th node in linked list|[C++](c++/find-nk-th-node-in-linked-list.cpp)|
 |Linked list insert|[C++](c++/linked-list-insert.cpp)|
 |Sorted insert for circular linked list|[C++](c++/sorted-insert-for-circular-linked-list.cpp)|
