@@ -311,7 +311,7 @@ In this repository you will find:
 |Reverse first K elements of a queue|[C++](c++/reverse-first-k-elements-of-queue.cpp)|
 |Queue reversal (Reverse content of a Queue)|[C++](c++/queue-reversal.cpp)|
 |Operations in queue|[C++](c++/operations-on-queue.cpp)|
-
+ 
 
 ## Set
 
@@ -415,6 +415,7 @@ In this repository you will find:
 |automorphic numbers|[C++](c++/automorphic-number.cpp)|
 |For loop prime check|[C++](c++/for-loop-prime-check.cpp)|
 |Int-to-binary|[C++](c++/int-to-binary.cpp)|
+|Digits in factorial|[C++](c++/digits-in-factorial.cpp)|
 |find-prime-numbers-in-a-range|[C++](c++/prime-numbers-in-range.cpp)|
 |Strong numbers|[C++](c++/strong-number.cpp)|
 |Pairs with difference k|[C++](c++/pairs-with-difference-k.cpp)|
