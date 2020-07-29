@@ -98,6 +98,7 @@ In this repository you will find:
 |Insert at end of array|[C++](c++/array-insert-at-end.cpp)|
 |Equilibrium point|[C++](c++/equilibrium-point.cpp)|
 |Left index|[C++](c++/left_index.cpp)|
+|Missing number in an array|[C++](c++/missing-number-in-an-array.cpp)|
 |Sort array  of 0s, 1s and 2|[C++](c++/sort-array-of-zeros-ones-and-two.cpp)|
 |Product of array element|[C++](c++/product-of-array-element.cpp)|
 |Index of first 1 in sorted boolean array|[C++](c++/index-of-first-1-in-a-sorted-array-of-0s-and-1s.cpp)|
