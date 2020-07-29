@@ -222,7 +222,6 @@ In this repository you will find:
 | Reverse words of a given string|[C++](c++/reverse-word-in-given-string.cpp)
 |Given two strings, check if one is the anagram of another|[Java](java/Anagram.java)|
 | |[C++](c++/.cpp)|
-| |[C++](c++/.cpp)|
 
 
 ## Linked List
@@ -335,6 +334,7 @@ In this repository you will find:
 |First repeating element|[C++](c++/first-repeating-element2.cpp)|
 |First eleemnt to accout k times|[C++](c++/first-element-to-occur-k-times.cpp)|
 |Find the odd occurrenci|[C++](c++/find-odd-occurrenci.cpp)|
+|Count element occurrences|[C++](c++/count-element-occurences.cpp)|
 
 | |[C++](c++/.cpp)|
 
