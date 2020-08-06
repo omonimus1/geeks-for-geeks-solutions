@@ -311,6 +311,7 @@ In this repository you will find:
 |Implement queue using linked list|[C++](c++/implement-queue-using-linked-list.cpp)|
 |Reverse first K elements of a queue|[C++](c++/reverse-first-k-elements-of-queue.cpp)|
 |Queue reversal (Reverse content of a Queue)|[C++](c++/queue-reversal.cpp)|
+|Queue Operations|[Java](c++/queue-operations.java)|
 |Operations in queue|[C++](c++/operations-on-queue.cpp)|
  
 
