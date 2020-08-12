@@ -208,6 +208,7 @@ In this repository you will find:
 |String validation|[C++](c++/string-validation.cpp)|
 |C friend function (anagram check)|[C++](c++/c-friend-function.cpp)|
 |last-index-of-1|[C++](c++/last-index-of-1.cpp)|
+|Longest substring containg 1|[C++](c++/longest-substring-containing-1.cpp)|
 |Panagram checking|[C++](c++/panagram-checking.cpp)|
 |Repeating characer first appearance leftmost|[C++](c++/repeating-character-first-appearance-leftmost.cpp)|
 |Uppercase to lowercase|[C++](c++/uppercase-to-lowercase.cpp)|
