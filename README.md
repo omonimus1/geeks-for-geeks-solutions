@@ -200,6 +200,7 @@ In this repository you will find:
 |Hello World|[Python](python/helloworld.py)|
 |Contatenate String python|[python](python/concatenating-string.py)|
 |Is Isogram|[C++](c++/isIsogram.cpp)|
+|Check for binary|[C++](c++/check_for_binary.cpp)|
 |Missing characters in panagram|[C++](c++/missing-characters-in-panagram.cpp)|
 |Check if b is an anagram of a|[C++](c++/check-if-b-is-an-anagram-of-a.cpp)|
 |Consonant and vowals check|[C++](c++/consonant-and-vowals.check.cpp)|
