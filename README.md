@@ -338,6 +338,9 @@ In this repository you will find:
 |First eleemnt to accout k times|[C++](c++/first-element-to-occur-k-times.cpp)|
 |Find the odd occurrenci|[C++](c++/find-odd-occurrenci.cpp)|
 |Count element occurrences|[C++](c++/count-element-occurences.cpp)|
+|Number containgin 1, 2 and 3|[C++](c++/numbers-containing-1-2-and-3.cpp)|
+|Winner of an election|[C++](c++/winner_of_an_election.cpp)|
+
 
 | |[C++](c++/.cpp)|
 
