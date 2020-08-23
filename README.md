@@ -192,6 +192,7 @@ In this repository you will find:
       
 |   Name       |  Solution|
 |----------|:----------------:|
+| Naive Pattern Search|[C++](c++/naive-pattern-search.cpp)|
 |Reverse string in O(1) space complexity|[C++](c++/reverse-a-string.cpp)|
 |Display longest name|[C++](c++/display-longest-name.cpp)|
 |String validation |[Python](python/string/string_validation.py)|
@@ -203,7 +204,7 @@ In this repository you will find:
 |Check for binary|[C++](c++/check_for_binary.cpp)|
 |Missing characters in panagram|[C++](c++/missing-characters-in-panagram.cpp)|
 |Check if b is an anagram of a|[C++](c++/check-if-b-is-an-anagram-of-a.cpp)|
-|Consonant and vowals check|[C++](c++/consonant-and-vowals.check.cpp)|
+|Consonant and vowals check|[C++](c++/consonant-an122d-vowals.check.cpp)|
 |Lower to upper case|[C++](c++/lower-to-uppercase.cpp)|
 |String validation|[C++](c++/string-validation.cpp)|
 |C friend function (anagram check)|[C++](c++/c-friend-function.cpp)|
