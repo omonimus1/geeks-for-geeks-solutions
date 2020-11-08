@@ -81,6 +81,7 @@ In this repository you will find:
 |Bitwise operator|[C++](c++/bitwise-operator.cpp)|
 |Even odd|[C++](c++/even-odd.cpp)|
 |data tpes|[C++](c++/data-types.cpp)|
+|Find the fine|[C++](c++/find_the_fine.cpp)|
 
 ||[C++](c++/.cpp)|
 
@@ -196,6 +197,7 @@ In this repository you will find:
 |   Name       |  Solution|
 |----------|:----------------:|
 | Naive Pattern Search|[C++](c++/naive-pattern-search.cpp)|
+|Print first letter of every word |[C++](c++/print-first-letter-of-every-word.cpp)|
 |Reverse string in O(1) space complexity|[C++](c++/reverse-a-string.cpp)|
 |Display longest name|[C++](c++/display-longest-name.cpp)|
 |String validation |[Python](python/string/string_validation.py)|
@@ -227,6 +229,8 @@ In this repository you will find:
 |Check if a string is Isogram or not|[C++](c++/check-if-string-is-isogram.cpp.cpp)|
 | Reverse words of a given string|[C++](c++/reverse-word-in-given-string.cpp)
 |Given two strings, check if one is the anagram of another|[Java](java/Anagram.java)|
+|First and second smallest element|[C++](c++/first-and-second-smallest-element.cpp)|
+
 | |[C++](c++/.cpp)|
 
 
