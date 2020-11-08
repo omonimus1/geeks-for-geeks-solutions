@@ -41,6 +41,7 @@ In this repository you will find:
 
 |    Name  |  Solution        |
 |----------|:----------------:|
+|Strongesth neighbour|[C++](c++/strongest-neighbour.cpp)|
 |Data types in Java|[Java](java/data-types-java.java)|
 |Start coding|[Java](java/start-coding.java)|
 |The new line|[Java](java/the-new-line.java)|
