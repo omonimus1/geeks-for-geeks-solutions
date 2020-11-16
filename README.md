@@ -241,6 +241,8 @@ In this repository you will find:
 |----------|:----------------:|
 | Display linked list|[C++](c++/display-linked-list.cpp)|
 |Sum of nodes|[C++](c++/sum-of-nodes.cpp)|
+|Intersaction point in y shapped linked list|[C++](c++/intersaction-pooint-iny-shapped-linked-list.cpp)|
+|Remove duplicates in sorted Linked list|[C++](c++/remove-duplicates-sorted-linked-list.cpp)|
 |Pair swap of a linked list|[C++](c++/pair-swap-linked-list.cpp)|
 |Find nk-th node in linked list|[C++](c++/find-nk-th-node-in-linked-list.cpp)|
 |Linked list insert|[C++](c++/linked-list-insert.cpp)|
