@@ -100,6 +100,7 @@ In this repository you will find:
 |Insert at end of array|[C++](c++/array-insert-at-end.cpp)|
 |Equilibrium point|[C++](c++/equilibrium-point.cpp)|
 |Left index|[C++](c++/left_index.cpp)|
+|Number of occurrency|[C++](c++/number-of-occurrency.cpp)|
 ||[C++](c++/smallest-positive-missing-number.cpp)|
 |Median of two arrays|[C++](c++/median-of-two-array.cpp)|
 |Missing number in an array|[C++](c++/missing-number-in-an-array.cpp)|
@@ -323,7 +324,8 @@ In this repository you will find:
 |Queue reversal (Reverse content of a Queue)|[C++](c++/queue-reversal.cpp)|
 |Queue Operations|[Java](c++/queue-operations.java)|
 |Operations in queue|[C++](c++/operations-on-queue.cpp)|
- 
+| Left and right rotation |[C++](c++/right_and_left_rotation.cpp)|
+
 
 ## Set
 
@@ -375,6 +377,7 @@ In this repository you will find:
 |----------|:----------------:|
 |Binary Search |[C++](c++/bin-search.cpp)|
 |Min in BST|[C++](c++/min-in-BST.cpp)|
+|Count Number of leaves node|[C++](c++/count-number-leaves-nodes.cpp)|
 |Level Order(Splitting every line with '$'|[C++](c++/level-order-tree2.cpp)|
 |Level order of a binary search tree|[C++](c++/level-order-of-binary-search-tree.cpp)|
 |Inorder of a BST(Binary Search Tree)|[C++](c++/inorder-of-BST.cpp)|
