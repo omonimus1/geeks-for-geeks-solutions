@@ -95,6 +95,8 @@ In this repository you will find:
 |Even odd|[C++](c++/even-odd.cpp)|
 |data tpes|[C++](c++/data-types.cpp)|
 |Find the fine|[C++](c++/find_the_fine.cpp)|
+|Reverse vowels - improved|[C++](c++/reversing-the-vowels.cpp)|
+|Value equal to index value|[C++](c++/value-equal-to-index-value.cpp)|
 
 ||[C++](c++/.cpp)|
 
@@ -107,6 +109,7 @@ In this repository you will find:
 
 |    Name  |  Solution        |
 |----------|:----------------:| 
+|At least two greater element|[C++](c++/at-least-two-greater-element.cpp)|
 |Sub array with given sum (print index range of the subarray)|[C++](c++/subarray-with-given-sum.cpp)|
 |SUm of array elements-2|[C++](c++/sum-of-array-elements2.cpp)|
 |Count 1s in sorted array|[C++](c++/count-1-in-sorted-array.cpp)|
@@ -192,6 +195,7 @@ In this repository you will find:
 |Merge sort|[C++](c++/merge-sort.cpp)|
 |Binary array sorting|[C++](c++/binary-array-sorting2.cpp)|
 
+| |[C++](c++/.cpp)|
 
 
 ## Matrix
@@ -207,6 +211,8 @@ In this repository you will find:
 |two-dimensional-world|[C++](c++/two-dimensionalworld.cpp)|
 |Rotate Matrix of 90 degrees|[C++](c++/rotate-matrix-of-90-degrees.cpp)|
 
+| |[C++](c++/.cpp)|
+
 
 ## Strings
       
@@ -219,6 +225,7 @@ In this repository you will find:
 |String validation |[Python](python/string/string_validation.py)|
 |Repeat the string|[Python](python/repeat-the-string.py)|
 |Welcome abroad|[Python](python/welcome-abroard-python.py)|
+|Remove spaces|[C++](c++/remove-spaces.cpp)|
 |Hello World|[Python](python/helloworld.py)|
 |Contatenate String python|[python](python/concatenating-string.py)|
 |Is Isogram|[C++](c++/isIsogram.cpp)|
