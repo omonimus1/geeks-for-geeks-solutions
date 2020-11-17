@@ -36,6 +36,11 @@ In this repository you will find:
 * [Prime Numbers](#Prime-numbers)
 * [Recursion](#Recursion)
 
+||[C++](c++/.cpp)|
+
+||[C++](c++/.cpp)|
+
+||[C++](c++/.cpp)|
 
 ## Programming foundamentals
 
@@ -44,6 +49,14 @@ In this repository you will find:
 |Strongesth neighbour|[C++](c++/strongest-neighbour.cpp)|
 |Data types in Java|[Java](java/data-types-java.java)|
 |Start coding|[Java](java/start-coding.java)|
+|Split strings|[C++](c++/split-strings.cpp)|
+|Sum of digits|[C++](c++/sum-of-digits.cpp)|
+|Odd or even|[C++](c++/odd-or-even.cpp)|
+|Palindrome|[C++](c++/Palindrom.cpp)|
+|Mean|[C++](c++/mean.cpp)|
+|Count of camel case characters|[C++](c++/count-of-camel-case-characters.cpp)|
+|Sum of matrix elements|[C++](c++/sum-of-matrix-elements.cpp)|
+|Addition of two numbers|[C++](c++/addition-of-two-numbers.cpp)|
 |The new line|[Java](java/the-new-line.java)|
 |Java Inheritance|[Java](java/java-inheritance.java)|
 |Even-odd in Java|[Java](java/even-odd.java)|
@@ -95,6 +108,7 @@ In this repository you will find:
 |    Name  |  Solution        |
 |----------|:----------------:| 
 |Sub array with given sum (print index range of the subarray)|[C++](c++/subarray-with-given-sum.cpp)|
+|SUm of array elements-2|[C++](c++/sum-of-array-elements2.cpp)|
 |Count 1s in sorted array|[C++](c++/count-1-in-sorted-array.cpp)|
 |Search in sorted array|[C++](c++/search-in-sorted-array.cpp)|
 |Insert at end of array|[C++](c++/array-insert-at-end.cpp)|
@@ -136,6 +150,7 @@ In this repository you will find:
 |Who has the majority element|[C++](c++/who-has-the-majority.cpp)|
 |Sort array os 0s, 1 and 2s|[C++](c++/sort-arrays-of-0-and-1.cpp)|
 |Reverse the array|[C++](c++/reverse-the-array.cpp)|
+|Reverse array - High modularity|[C++](c++/reverse-array-2.cpp)|
 |Need some change|[C++](c++/need-some-chage.cpp)|
 |Find the frequency|[C++](c++/find-the-frequency.cpp)|
 |Immediate smaller element|[C++](c++/immediate-smaller-element.cpp)|
