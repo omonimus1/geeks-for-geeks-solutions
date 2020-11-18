@@ -97,10 +97,10 @@ In this repository you will find:
 |Find the fine|[C++](c++/find_the_fine.cpp)|
 |Reverse vowels - improved|[C++](c++/reversing-the-vowels.cpp)|
 |Value equal to index value|[C++](c++/value-equal-to-index-value.cpp)|
+|Greates of 3 numbers |[C++](c++/greatest_of_three_nubers.cpp)|
+|Full prime|[C++](c++/fullprime.cpp)|
 
 ||[C++](c++/.cpp)|
-
-
 
 ||[Python](python/.py)|
 
@@ -117,6 +117,8 @@ In this repository you will find:
 |Insert at end of array|[C++](c++/array-insert-at-end.cpp)|
 |Equilibrium point|[C++](c++/equilibrium-point.cpp)|
 |Left index|[C++](c++/left_index.cpp)|
+|Check if an array is sorted|[C++](c++/check-if-array-is-sorted.cpp)|
+|Print alternate elements of an array|[C++](c++/print-alternate-elements-of-an-array.cpp)|
 |Number of occurrency|[C++](c++/number-of-occurrency.cpp)|
 ||[C++](c++/smallest-positive-missing-number.cpp)|
 |Median of two arrays|[C++](c++/median-of-two-array.cpp)|
@@ -138,6 +140,7 @@ In this repository you will find:
 |Min and max element|[C++](c++/max-and-mimum.cpp)|
 |Is array sorted|[C++](c++/is-array-sorted.cpp)|
 |Balanced array|[C++](c++/balanced-array.cpp)|
+|Find Index|[C++](c++/find-index.cpp)|
 |Array delete and shift|[C++](c++/array-delete-and-shift.cpp)|
 |Array insert at index|[C++](c++/array-insert-at-index.cpp)|
 |Merge two sorted arrays O(1) space |[C++](c++/merge-two-sorted-arrays.cpp)|
@@ -227,6 +230,7 @@ In this repository you will find:
 |Welcome abroad|[Python](python/welcome-abroard-python.py)|
 |Remove spaces|[C++](c++/remove-spaces.cpp)|
 |Hello World|[Python](python/helloworld.py)|
+|Check string|[C++](c++/check-string.cpp)|
 |Contatenate String python|[python](python/concatenating-string.py)|
 |Is Isogram|[C++](c++/isIsogram.cpp)|
 |Check for binary|[C++](c++/check_for_binary.cpp)|
