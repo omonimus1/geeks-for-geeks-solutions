@@ -1,0 +1,1 @@
+// https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1/?problemStatus=unsolved&problemType=functional&difficulty[]=-2&page=1&sortBy=submissions&query=problemStatusunsolvedproblemTypefunctionaldifficulty[]-2page1sortBysubmissions
