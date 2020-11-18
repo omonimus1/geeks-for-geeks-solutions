@@ -222,6 +222,7 @@ In this repository you will find:
 |   Name       |  Solution|
 |----------|:----------------:|
 | Naive Pattern Search|[C++](c++/naive-pattern-search.cpp)|
+|Lower case |[C++](c++/lower-case.cpp)|
 |Print first letter of every word |[C++](c++/print-first-letter-of-every-word.cpp)|
 |Reverse string in O(1) space complexity|[C++](c++/reverse-a-string.cpp)|
 |Display longest name|[C++](c++/display-longest-name.cpp)|
