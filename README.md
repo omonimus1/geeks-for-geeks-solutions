@@ -379,6 +379,7 @@ In this repository you will find:
 |Count element occurrences|[C++](c++/count-element-occurences.cpp)|
 |Number containgin 1, 2 and 3|[C++](c++/numbers-containing-1-2-and-3.cpp)|
 |Winner of an election|[C++](c++/winner_of_an_election.cpp)|
+| Twice counter|[C++](c++/twice-counter.cpp)|
 
 
 | |[C++](c++/.cpp)|
