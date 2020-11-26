@@ -6,9 +6,9 @@
 
 |    Name  |  Category         |Solution        |
 |----------|::----------------:|----------------:|
-|||[C++]()|
-|||[C++]()|
-|||[C++]()|
+|sort-an-array-of-0s-1s-and-2 |Array|[C++](sort-an-array-of-0s-1s-and-2.cpp)|
+|last-index-of-1|Array|[C++](last-index-of-1.cpp)|
+|remove-duplicates3034|String|[C++](remove-duplicates3034.cpp)|
 |||[C++]()|
 |||[C++]()|
 
