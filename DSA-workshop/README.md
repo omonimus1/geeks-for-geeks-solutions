@@ -1,4 +1,11 @@
-## 11 weeks pratical  Workshop
+# Week  1 : Array - math
 
-* [https://practice.geeksforgeeks.org/batch/DSA-Workshop/](https://practice.geeksforgeeks.org/batch/DSA-Workshop/)
-* Access code for subscription: **GFGW7J54D**
+
+|    Name  |  Category         |Solution        |
+|----------|::----------------:|----------------:|
+|wHo has Majotiy|Array|[C++](who-has-majority.cpp)|
+|Absolute value |Math|[C++](absolute-value.cpp)|
+|First repeating element|Array|[C++](first-repeating-element.cpp)|
+|Immediate Smaller|Array|[C++](immediate_smaller.cpp)|
+|Find transiction point|Array|[C++](find-transiction-point.cpp)|
+|Wave array|Array| [C++](wave-array.cpp)|
