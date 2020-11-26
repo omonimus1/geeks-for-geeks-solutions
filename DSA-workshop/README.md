@@ -1,4 +1,4 @@
-# Week  1 : Array - math
+# Solutions 11 Weeks Algo and DS workshop
 
 
 |    Name  |  Category         |Solution        |
