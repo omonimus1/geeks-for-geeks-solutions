@@ -5,6 +5,8 @@
 In this repository you will find:
 * Generic Practicse coding challenges solutions 
 * Amazon SDE preparation solutions
+* [Solution of the must Do coding questions for Amazon, Microsoft, Adobe]()
+* [Solution of the 11 weeks ADS GeeksForGeeks workshop](DSA-workshop/README.md)
 
 ## Author
 * Davide Pollicino [GeeksForGeeks profile](https://auth.geeksforgeeks.org/user/davidepollicino/practice/).
