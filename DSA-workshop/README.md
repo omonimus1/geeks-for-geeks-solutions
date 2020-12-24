@@ -8,7 +8,7 @@
 |First repeating element|Array|[C++](first-repeating-element.cpp)|
 |Immediate Smaller|Array|[C++](immediate_smaller.cpp)|
 |Find transiction point|Array|[C++](find-transiction-point.cpp)|
-|Wave array|Array| [ C++](wave-array.cpp)|
+|Wave array|Array|[ C++](wave-array.cpp)|
 
 ## Matrix section
 |    Name  |  Category         |Solution        |
@@ -56,3 +56,25 @@
 |Zero Sum Subarrays|Hashing| []()|
 |Relative Sorting|Hashing| []()|
 |Find All Four Sum Numbers|Hashing| []()|
+
+
+## Linked List
+|    Name  |  Category         |Solution        |
+|----------|::----------------:|----------------:|
+|Print linked list elements|Linkedln List|[]()|
+|Reverse a linked listLinkedln List|[]()|
+|Occurence of an integer in a Linked List|Linkedln List|[]()|
+|Pairwise swap elements of a linked list|Linkedln List|[]()|
+|Add two numbers represented by linked lists|Linkedln List|[]()|
+|Sorted insert for circular linked listLinkedln List|[]()|
+|Split a Circular Linked List into two halves|Linkedln List|[]()|
+|Detect Loop in linked list|Linkedln List|[]()|
+|Delete Middle of Linked List|Linkedln List|[]()|
+| Circular Linked List Delete at Position|Linkedln List|[]()|
+| Delete without head pointer|Linkedln List|[]()|
+|Reverse a Linked List in groups of given size. |Linkedln List|[]()|
+| Intersection Point in Y Shapped Linked Lists|Linkedln List|[]()|
+|Quick Sort on Linked List|Linkedln List|[]()|
+|Clone a linked list with next and random pointer|Linkedln List|[]()|
+|Merge Sort on Doubly Linked List|Linkedln List|[]()|
+|QuickSort on Doubly Linked List|Linkedln List|[]()|
