@@ -25,9 +25,9 @@
 ## String
 |    Name  |  Category         |Solution        |
 |----------|::----------------:|----------------:|
-|Check for binary|String|[]()|
+|Check for binary|String|[c++](check_for_binary.cpp)|
 |Convert to Roman No|String|[]()|
-|Maximum Occurring character|String|[]()|
+|Maximum Occurring character|String|[c++](max_occurrency_number.cpp)|
 |Missing characters in Panagram|String|[]()|
 |Implment strstr|String|[]()|
 |Remainder with 7|String|[]()|
