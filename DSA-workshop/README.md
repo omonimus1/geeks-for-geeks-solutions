@@ -40,3 +40,19 @@
 |Multiply two strings|String|[]()|
 |Longest Palindrome Substring|String|[]()|
 |Excel Sheet | Part - 1|String|[]()|
+
+## Hashing
+|    Name  |  Category         |Solution        |
+|----------|::----------------:|----------------:|
+||Hashing| []()|
+||Hashing| []()|
+||Hashing| []()|
+||Hashing| []()|
+||Hashing| []()|
+||Hashing| []()|
+||Hashing| []()|
+||Hashing| []()|
+||Hashing| []()|
+||Hashing| []()|
+||Hashing| []()|
+||Hashing| []()|
