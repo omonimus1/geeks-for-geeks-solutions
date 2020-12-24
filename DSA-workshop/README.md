@@ -44,15 +44,15 @@
 ## Hashing
 |    Name  |  Category         |Solution        |
 |----------|::----------------:|----------------:|
-||Hashing| []()|
-||Hashing| []()|
-||Hashing| []()|
-||Hashing| []()|
-||Hashing| []()|
-||Hashing| []()|
-||Hashing| []()|
-||Hashing| []()|
-||Hashing| []()|
-||Hashing| []()|
-||Hashing| []()|
-||Hashing| []()|
+|Check if two arrays are equal or not|Hashing| [c++](check_if_two_arrays_are_equals_or_not.cpp)|
+|Max distance between same elements|Hashing| []()|
+|Longest Consecutive Subsequence|Hashing| []()|
+|Two Sum|Hashing| []()|
+|Largest subarray with 0 sum|Hashing| []()|
+|Print Non-Repeated Elements|Hashing| [c++](print_non_repeating_chars.cpp)|
+|Count distinct elements in every window|Hashing| []()|
+|Sorting Elements of an Array by Frequency|Hashing| []()|
+|Top K Frequent Elements in Array - ||Hashing| []()|
+|Zero Sum Subarrays|Hashing| []()|
+|Relative Sorting|Hashing| []()|
+|Find All Four Sum Numbers|Hashing| []()|
