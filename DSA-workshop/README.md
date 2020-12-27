@@ -4,7 +4,6 @@
 |    Name  |  Category         |Solution        |
 |----------|::----------------:|----------------:|
 |wHo has Majotiy|Array|[C++](who-has-majority.cpp)|
-|Absolute value |Math|[C++](absolute-value.cpp)|
 |First repeating element|Array|[C++](first-repeating-element.cpp)|
 |Immediate Smaller|Array|[C++](immediate_smaller.cpp)|
 |Find transiction point|Array|[C++](find-transiction-point.cpp)|
@@ -62,9 +61,9 @@
 |    Name  |  Category         |Solution        |
 |----------|::----------------:|----------------:|
 |Print linked list elements|Linkedln List|[c++](print_linked_list.cpp)|
-|Reverse a linked listLinkedln List|[c++](pair_wise_swapping.cpp)|
+|Reverse a linked listLinkedln List|[c++]()|
 |Occurence of an integer in a Linked List|Linkedln List|[c++](occurrence_of_integr_n_ll.cpp)|
-|Pairwise swap elements of a linked list|Linkedln List|[]()|
+|Pairwise swap elements of a linked list|Linkedln List|[c++](pair_wise_swapping.cpp)|
 |Add two numbers represented by linked lists|Linkedln List|[]()|
 |Sorted insert for circular linked listLinkedln List|[]()|
 |Split a Circular Linked List into two halves|Linkedln List|[]()|
@@ -78,3 +77,24 @@
 |Clone a linked list with next and random pointer|Linkedln List|[]()|
 |Merge Sort on Doubly Linked List|Linkedln List|[]()|
 |QuickSort on Doubly Linked List|Linkedln List|[]()|
+
+
+## Stack
+|    Name  |  Category         |Solution        |
+|----------|::----------------:|----------------:|
+|Reverse a string using Stack|Stack|[c++](reverse_string_using_stack.cpp)|
+|Evaluation of Postfix Expression|Stack|[]()|
+|Sort a stack|Stack|[]()|
+|Get minimum element from stack|Stack|[]()|
+|Parenthesis Checker|Stack|[]()|
+|Max rectangle|Stack|[]()|
+|Maximum Rectangular Area in a Histogram|Stack|[]()|
+|Stock span problem|Stack|[]()|
+|Infix to Postfix|Stack|[]()|
+|Next larger element|Stack|[]()|
+|Maximum of minimum for every window size|Stack|[]()|
+
+## Math
+|    Name  |  Category         |Solution        |
+|----------|::----------------:|----------------:|
+|Absolute value |Math|[C++](absolute-value.cpp)|
