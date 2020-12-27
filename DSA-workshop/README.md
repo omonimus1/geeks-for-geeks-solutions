@@ -8,7 +8,7 @@
 |First repeating element|Array|[C++](first-repeating-element.cpp)|
 |Immediate Smaller|Array|[C++](immediate_smaller.cpp)|
 |Find transiction point|Array|[C++](find-transiction-point.cpp)|
-|Wave array|Array|[ C++](wave-array.cpp)|
+|Wave array|Array|[C++](wave-array.cpp)|
 
 ## Matrix section
 |    Name  |  Category         |Solution        |
@@ -61,9 +61,9 @@
 ## Linked List
 |    Name  |  Category         |Solution        |
 |----------|::----------------:|----------------:|
-|Print linked list elements|Linkedln List|[]()|
-|Reverse a linked listLinkedln List|[]()|
-|Occurence of an integer in a Linked List|Linkedln List|[]()|
+|Print linked list elements|Linkedln List|[c++](print_linked_list.cpp)|
+|Reverse a linked listLinkedln List|[c++](pair_wise_swapping.cpp)|
+|Occurence of an integer in a Linked List|Linkedln List|[c++](occurrence_of_integr_n_ll.cpp)|
 |Pairwise swap elements of a linked list|Linkedln List|[]()|
 |Add two numbers represented by linked lists|Linkedln List|[]()|
 |Sorted insert for circular linked listLinkedln List|[]()|
