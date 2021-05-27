@@ -112,6 +112,7 @@ In this repository you will find:
 
 |    Name  |  Solution        |
 |----------|:----------------:| 
+|Product of maximum in first array and minimum in second|[C++](c++/product_max_in_first_and_min_in_sec.cpp)|
 |At least two greater element|[C++](c++/at-least-two-greater-element.cpp)|
 |C++ Array (print an element) | Set 2|[C++](c++/print_an_element.cpp)|
 |Sub array with given sum (print index range of the subarray)|[C++](c++/subarray-with-given-sum.cpp)|
