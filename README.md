@@ -106,6 +106,7 @@ In this repository you will find:
 
 ||[Python](python/.py)|
 
+||[C++](c++/)|
 
 ## Array or Vector
 
@@ -114,6 +115,7 @@ In this repository you will find:
 |At least two greater element|[C++](c++/at-least-two-greater-element.cpp)|
 |Sub array with given sum (print index range of the subarray)|[C++](c++/subarray-with-given-sum.cpp)|
 |SUm of array elements-2|[C++](c++/sum-of-array-elements2.cpp)|
+|C++ Arrays (Sum of array) | Set 1 |[C++](c++/sum_of_array.cpp)|
 |Count 1s in sorted array|[C++](c++/count-1-in-sorted-array.cpp)|
 |Search in sorted array|[C++](c++/search-in-sorted-array.cpp)|
 |Insert at end of array|[C++](c++/array-insert-at-end.cpp)|
