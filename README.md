@@ -113,6 +113,7 @@ In this repository you will find:
 |    Name  |  Solution        |
 |----------|:----------------:| 
 |At least two greater element|[C++](c++/at-least-two-greater-element.cpp)|
+|C++ Array (print an element) | Set 2|[C++](c++/print_an_element.cpp)|
 |Sub array with given sum (print index range of the subarray)|[C++](c++/subarray-with-given-sum.cpp)|
 |SUm of array elements-2|[C++](c++/sum-of-array-elements2.cpp)|
 |C++ Arrays (Sum of array) | Set 1 |[C++](c++/sum_of_array.cpp)|
