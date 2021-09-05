@@ -7,7 +7,7 @@ public:
 	    int latest_space = -1, current_index = -1; 
 	    for (auto x: S)
 	    {
-	        index ++;
+	        current_index++;
 	        if(x == ' '){
 	            latest_space = current_index;
 	            solution += word[0];
