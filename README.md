@@ -38,12 +38,6 @@ In this repository you will find:
 * [Prime Numbers](#Prime-numbers)
 * [Recursion](#Recursion)
 
-||[C++](c++/.cpp)|
-
-||[C++](c++/.cpp)|
-
-||[C++](c++/.cpp)|
-
 ## Programming foundamentals
 
 |    Name  |  Solution        |
@@ -113,6 +107,7 @@ In this repository you will find:
 |    Name  |  Solution        |
 |----------|:----------------:| 
 |Sum of array|[C++](c++/sum_of_array2.cpp)|
+|Frequency of array elements|[C++](c++/frequency_of_array_elements.cpp)|
 |Multiplication table|[C++](c++/multiplication_table.cpp)|
 |Product of maximum in first array and minimum in second|[C++](c++/product_max_in_first_and_min_in_sec.cpp)|
 |At least two greater element|[C++](c++/at-least-two-greater-element.cpp)|
