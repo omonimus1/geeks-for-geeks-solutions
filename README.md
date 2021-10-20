@@ -238,6 +238,7 @@ In this repository you will find:
 |Contatenate String python|[python](python/concatenating-string.py)|
 |Is Isogram|[C++](c++/isIsogram.cpp)|
 |Check for binary|[C++](c++/check_for_binary.cpp)|
+|First letter of each word|[C++](c++/first_letter_of_each_word.cpp)|
 |Missing characters in panagram|[C++](c++/missing-characters-in-panagram.cpp)|
 |Check if b is an anagram of a|[C++](c++/check-if-b-is-an-anagram-of-a.cpp)|
 |Consonant and vowals check|[C++](c++/consonant-an122d-vowals.check.cpp)|
