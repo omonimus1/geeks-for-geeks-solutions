@@ -197,6 +197,7 @@ In this repository you will find:
 |Bubble sort|[C++](c++/bubble_sort.cpp)|
 |Amazon binary array sortiong|[C++](c++/binary-arrays-sorting.cpp)|
 |Rotate Matrix by 90 degrees- clowise|[C++](c++/rotate-matrixe-clowise.cpp)|
+|reverse the columsn of matrix|[C++](c++/reverse-columns-of-matrix.cpp)|
 |Bubble sort|[C++](c++/bubble-sort.cpp)|
 |Merge sort|[C++](c++/merge-sort.cpp)|
 |Binary array sorting|[C++](c++/binary-array-sorting2.cpp)|
