@@ -352,6 +352,7 @@ In this repository you will find:
 |    Name  |  Solution        |
 |----------|:----------------:|
 |Queue Designer - Queue Push & Pop|[C++](c++/queue-designer.cpp)|
+|Queue using an array|[C++](c++/queue_using_array.cpp)|
 |Dequeu implementation|[C++](c++/deque-implementation.cpp)|
 |Implement queue using linked list|[C++](c++/implement-queue-using-linked-list.cpp)|
 |Reverse first K elements of a queue|[C++](c++/reverse-first-k-elements-of-queue.cpp)|
