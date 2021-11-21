@@ -44,6 +44,7 @@ In this repository you will find:
 |----------|:----------------:|
 |Strongesth neighbour|[C++](c++/strongest-neighbour.cpp)|
 |Data types in Java|[Java](java/data-types-java.java)|
+|Larghest element in array|[Python](python/larghest_element_in_array.py)|
 |Start coding|[Java](java/start-coding.java)|
 |Split strings|[C++](c++/split-strings.cpp)|
 |Sum of digits|[C++](c++/sum-of-digits.cpp)|
