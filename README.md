@@ -51,6 +51,7 @@ In this repository you will find:
 |Odd or even|[C++](c++/odd-or-even.cpp)|
 |Palindrome|[C++](c++/Palindrom.cpp)|
 |Mean|[C++](c++/mean.cpp)|
+| If conditional statement- Python|[Python](python/if_conditional_statment.py)|
 |Count of camel case characters|[C++](c++/count-of-camel-case-characters.cpp)|
 |Sum of matrix elements|[C++](c++/sum-of-matrix-elements.cpp)|
 |Addition of two numbers|[C++](c++/addition-of-two-numbers.cpp)|
