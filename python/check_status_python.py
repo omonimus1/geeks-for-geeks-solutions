@@ -7,4 +7,4 @@ def check_status(a, b, flag):
     if (a>0 and b<0) or (a<0 and b>0):
         return not flag
     elif (a < 0 and  b <0):
-        return flag
+        return flage

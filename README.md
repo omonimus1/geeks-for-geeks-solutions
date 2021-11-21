@@ -61,6 +61,7 @@ In this repository you will find:
 |Even-odd in Java|[Java](java/even-odd.java)|
 |Hello Word-python|[Python](python/hello-world.py)|
 |Comparison|[Python](python/comparison.py)|
+|Functions - Python|[Python](python/functions.py)|
 |Split the input|[Python](python/split-the-input.py)|
 |Taking input|[Python](python/taking-input.py)|
 |Is and in operator |[Python](python/is-and-in-operator.py)|
