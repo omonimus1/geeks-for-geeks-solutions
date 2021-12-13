@@ -231,6 +231,7 @@ In this repository you will find:
 |----------|:----------------:|
 | Naive Pattern Search|[C++](c++/naive-pattern-search.cpp)|
 |Lower case |[C++](c++/lower-case.cpp)|
+|Find maximum number|[C++](c++/find-maximum-number.cpp)|
 |Print first letter of every word |[C++](c++/print-first-letter-of-every-word.cpp)|
 |Reverse string in O(1) space complexity|[C++](c++/reverse-a-string.cpp)|
 |Display longest name|[C++](c++/display-longest-name.cpp)|
@@ -321,7 +322,7 @@ In this repository you will find:
 |linked-list-length-even-or-odd|[C++](c++/linked-list-lenght-even-or-odd.cpp)|
 |Middle Element|[C++](c++/middle-element-linkedlist.cpp)|
 |Node at the given position|[C++](c++/node-at-given-pos-linked-list.cpp)|
-|Print linked list|[C++](c++/print-linked-list.cpp)|
+|Print linked list|[C++](c++/print-linked-list.cpp)|[Python](python/print-linked-list.py)|
 |Find sum of last N nodes|[C++](c++/sum-last-n-nodes.cpp)|
 |Circular Linked List|[C++](c++/circular-linked-list.cpp)|
 |Reverse a Linked List|[C++](c++/reverse_linked_list.cpp)|
