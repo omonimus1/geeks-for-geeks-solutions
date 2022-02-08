@@ -277,6 +277,7 @@ In this repository you will find:
 |    Name  |  Solution        |
 |----------|:----------------:|
 | Display linked list|[C++](c++/display-linked-list.cpp)|
+|Adds two numbers represented by linkedln list|[PY](python/add-two-numbers-represented-by-linked-lists.py)|
 |Sum of nodes|[C++](c++/sum-of-nodes.cpp)|
 |Intersaction point in y shapped linked list|[C++](c++/intersaction-pooint-iny-shapped-linked-list.cpp)|
 |Remove duplicates in sorted Linked list|[C++](c++/remove-duplicates-sorted-linked-list.cpp)|
