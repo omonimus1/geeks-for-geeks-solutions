@@ -10,7 +10,7 @@ In this repository you will find:
 
 ## Author
 * Davide Pollicino [GeeksForGeeks profile](https://auth.geeksforgeeks.org/user/davidepollicino/practice/).
-
+If you need more material like this, [nominate me as github start, to get help the project to gain more visibility and contributions](https://stars.github.com/program/)
 ## Index of content
 
 1. [Algorithms and Data structures](#Algorithms-and-Data-structures)
