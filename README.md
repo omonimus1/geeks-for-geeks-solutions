@@ -1,12 +1,16 @@
 ![Geeks for Geeks](images/geeksforgeeks.png)
 
 # Geeks-for-geeks-solutions
-
 In this repository you will find:
 * Generic Practicse coding challenges solutions 
 * Amazon SDE preparation solutions
 * [Solution of the must Do coding questions for Amazon, Microsoft, Adobe]()
 * [Solution of the 11 weeks ADS GeeksForGeeks workshop](DSA-workshop/README.md)
+
+## Technologies
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## Author
 * Davide Pollicino [GeeksForGeeks profile](https://auth.geeksforgeeks.org/user/davidepollicino/practice/).
