@@ -109,11 +109,6 @@ If you need more material like this, [nominate me as github start, to get help t
 |Greates of 3 numbers |[C++](c++/greatest_of_three_nubers.cpp)|
 |Full prime|[C++](c++/fullprime.cpp)|
 
-||[C++](c++/.cpp)|
-
-||[Python](python/.py)|
-
-||[C++](c++/)|
 
 ## Array or Vector
 
@@ -462,7 +457,6 @@ If you need more material like this, [nominate me as github start, to get help t
 |Sum of depenncies in a graph |[C++](c++/sum_of_depencies.cpp)|
 | BFS of a graph |[C++](c++/bfs-graph.cpp)|
 |Print adjacency list|[C++](c++/print-adjacency-list.cpp)|
-| |[C++](c++/.cpp)|
 
 
 ## Math and BitMagic
@@ -499,16 +493,12 @@ If you need more material like this, [nominate me as github start, to get help t
 |Find first set bit|[C++](c++/find-first-set-bit-final2.cpp)|
 
 
-| |[C++](c++/.cpp)|
-
 ## Recursion
 
 |    Name  |  Solution        |
 |----------|:----------------:|
 |COunt number of digits using recursion|[C++](c++/number-of-digits.cpp)|
-| |[C++](c++/.cpp)|
-| |[C++](c++/.cpp)|
-| |[C++](c++/.cpp)|
+
 
 ## Contribute
 1. Star the repositor
