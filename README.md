@@ -51,6 +51,7 @@ If you need more material like this, [nominate me as github start, to get help t
 
 |    Name  |  Solution        |
 |----------|:----------------:|
+|Replace all 0' with 5|[Python](python/replace_all_zero_with_five.py)|
 |Strongesth neighbour|[C++](c++/strongest-neighbour.cpp)|
 |Data types in Java|[Java](java/data-types-java.java)|
 |Larghest element in array|[Python](python/larghest_element_in_array.py)|
@@ -188,7 +189,7 @@ If you need more material like this, [nominate me as github start, to get help t
 |Pair sum in vector(sum second element of the second element)|[C++](c++/pair-sum-in-vector.cpp)|
 |Index of the first repeating element |[C++](c++/first-repeating-element.cpp)|
 |K-th element of two sorted Arrays(merge of two arrays)|[C++](c++/k-th-element-of-two-sorted-arrays.cpp)|
-| [Replace all 0's with 5(using atoi)](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/?track=amazon-arrays&batchId=192) |[C++](c++/replace-os-with-5s.cpp)|
+| [Replace all 0's with 5(using atoi)](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/?track=amazon-arrays&batchId=192) |[C++](c++/replace-os-with-5s.cpp)| 
 | [Third largest element](https://practice.geeksforgeeks.org/problems/third-largest-element/1/?track=amazon-arrays&batchId=192) |[C++](c++/third-larghest-element.cpp)|
 | [Find Duplocates in an Array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/?track=amazon-arrays&batchId=192) |[C++](c++/find-duplicates-in-array.cpp)|
 | [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1/?track=amazon-searching&batchId=192) |[C++](c++/majority-element.cpp)|
@@ -231,47 +232,47 @@ If you need more material like this, [nominate me as github start, to get help t
 
 ## Strings
       
-|   Name       |  Solution|
-|----------|:----------------:|
-| Naive Pattern Search|[C++](c++/naive-pattern-search.cpp)|
-|Lower case |[C++](c++/lower-case.cpp)|
-|Find maximum number|[C++](c++/find-maximum-number.cpp)|
-|Print first letter of every word |[C++](c++/print-first-letter-of-every-word.cpp)|
-|Reverse string in O(1) space complexity|[C++](c++/reverse-a-string.cpp)|
-|Display longest name|[C++](c++/display-longest-name.cpp)|
-|String validation |[Python](python/string/string_validation.py)|
-|Repeat the string|[Python](python/repeat-the-string.py)|
-|Welcome abroad|[Python](python/welcome-abroard-python.py)|
-|Remove spaces|[C++](c++/remove-spaces.cpp)|
-|Hello World|[Python](python/helloworld.py)|
-|Check string|[C++](c++/check-string.cpp)|
-|Contatenate String python|[python](python/concatenating-string.py)|
-|Is Isogram|[C++](c++/isIsogram.cpp)|
-|Check for binary|[C++](c++/check_for_binary.cpp)|
-|First letter of each word|[C++](c++/first_letter_of_each_word.cpp)|
-|Missing characters in panagram|[C++](c++/missing-characters-in-panagram.cpp)|
-|Check if b is an anagram of a|[C++](c++/check-if-b-is-an-anagram-of-a.cpp)|
-|Consonant and vowals check|[C++](c++/consonant-an122d-vowals.check.cpp)|
-|Lower to upper case|[C++](c++/lower-to-uppercase.cpp)|
-|String validation|[C++](c++/string-validation.cpp)|
-|C friend function (anagram check)|[C++](c++/c-friend-function.cpp)|
-|last-index-of-1|[C++](c++/last-index-of-1.cpp)|
-|Longest substring containg 1|[C++](c++/longest-substring-containing-1.cpp)|
-|Panagram checking|[C++](c++/panagram-checking.cpp)|
-|Repeating characer first appearance leftmost|[C++](c++/repeating-character-first-appearance-leftmost.cpp)|
-|Uppercase to lowercase|[C++](c++/uppercase-to-lowercase.cpp)|
-|Count numnber of words in a string|[C++](c++/count-words-in-string.cpp)|
-|Repeated chars|[C++](c++/repeate-char.cpp)|
-|Count distinct vowels in a string |[C++](c++/count-distinc-vowels.cpp)|
-|Length of a string |[C++](c++/length-of-string.cpp)|
-|Amend the sentece|[C++](c++/amend-the-sentence.cpp)|
-|Remove 'b' and 'ac' from given string|[C++](c++/remove-a-and0ac-from-given-string.cpp)|
-|String sort (Using Quick-sort)|[C++](c++/strin.quicksort.cpp)|
-|Vowels in string |[C++](c++/vowels-in-string.cpp)|
-|Check if a string is Isogram or not|[C++](c++/check-if-string-is-isogram.cpp.cpp)|
-| Reverse words of a given string|[C++](c++/reverse-word-in-given-string.cpp)
-|Given two strings, check if one is the anagram of another|[Java](java/Anagram.java)|
-|First and second smallest element|[C++](c++/first-and-second-smallest-element.cpp)|
+|   Name       |  Solution 1 | Solution 2 |
+|----------|:----------------:|:----------------:|
+| Naive Pattern Search|[C++](c++/naive-pattern-search.cpp)||
+|Lower case |[C++](c++/lower-case.cpp)||
+|Find maximum number|[C++](c++/find-maximum-number.cpp)||
+|Print first letter of every word |[C++](c++/print-first-letter-of-every-word.cpp)||
+|Reverse string in O(1) space complexity|[C++](c++/reverse-a-string.cpp)||
+|Display longest name|[C++](c++/display-longest-name.cpp)||
+|String validation |[Python](python/string/string_validation.py)||
+|Repeat the string|[Python](python/repeat-the-string.py)||
+|Welcome abroad|[Python](python/welcome-abroard-python.py)||
+|Remove spaces|[C++](c++/remove-spaces.cpp)||
+|Hello World|[Python](python/helloworld.py)||
+|Check string|[C++](c++/check-string.cpp)||
+|Contatenate String python|[python](python/concatenating-string.py)||
+|Is Isogram|[C++](c++/isIsogram.cpp)||
+|Check for binary|[C++](c++/check_for_binary.cpp)||
+|First letter of each word|[C++](c++/first_letter_of_each_word.cpp)| |
+|Missing characters in panagram|[C++](c++/missing-characters-in-panagram.cpp)| |
+|Check if b is an anagram of a|[C++](c++/check-if-b-is-an-anagram-of-a.cpp)| [Python](python/anagram.py) |
+|Consonant and vowals check|[C++](c++/consonant-an122d-vowals.check.cpp)| |
+|Lower to upper case|[C++](c++/lower-to-uppercase.cpp)||
+|String validation|[C++](c++/string-validation.cpp)||
+|C friend function (anagram check)|[C++](c++/c-friend-function.cpp)||
+|last-index-of-1|[C++](c++/last-index-of-1.cpp)||
+|Longest substring containg 1|[C++](c++/longest-substring-containing-1.cpp)||
+|Panagram checking|[C++](c++/panagram-checking.cpp)||
+|Repeating characer first appearance leftmost|[C++](c++/repeating-character-first-appearance-leftmost.cpp)||
+|Uppercase to lowercase|[C++](c++/uppercase-to-lowercase.cpp)||
+|Count numnber of words in a string|[C++](c++/count-words-in-string.cpp)||
+|Repeated chars|[C++](c++/repeate-char.cpp)||
+|Count distinct vowels in a string |[C++](c++/count-distinc-vowels.cpp)||
+|Length of a string |[C++](c++/length-of-string.cpp)||
+|Amend the sentece|[C++](c++/amend-the-sentence.cpp)||
+|Remove 'b' and 'ac' from given string|[C++](c++/remove-a-and0ac-from-given-string.cpp)||
+|String sort (Using Quick-sort)|[C++](c++/strin.quicksort.cpp)||
+|Vowels in string |[C++](c++/vowels-in-string.cpp)||
+|Check if a string is Isogram or not|[C++](c++/check-if-string-is-isogram.cpp.cpp)||
+| Reverse words of a given string|[C++](c++/reverse-word-in-given-string.cpp)|
+|Given two strings, check if one is the anagram of another|[Java](java/Anagram.java)||
+|First and second smallest element|[C++](c++/first-and-second-smallest-element.cpp)||
 
 | |[C++](c++/.cpp)|
 
@@ -396,9 +397,6 @@ If you need more material like this, [nominate me as github start, to get help t
 |Number containgin 1, 2 and 3|[C++](c++/numbers-containing-1-2-and-3.cpp)|
 |Winner of an election|[C++](c++/winner_of_an_election.cpp)|
 | Twice counter|[C++](c++/twice-counter.cpp)|
-
-
-| |[C++](c++/.cpp)|
 
 
 ## Heap
