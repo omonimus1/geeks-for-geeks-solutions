@@ -281,7 +281,8 @@ If you need more material like this, [nominate me as github start, to get help t
 
 |    Name  |  Solution     | Python |
 |----------|:----------------:|:----------------:|
-| Display linked list|[C++](c++/display-linked-list.cpp)||
+| Display linked list|[C++](c++/display-linked-list.cpp)|[Python](python/print-linked-list.py)|
+|Nth node from end of linked list| |[Python](python/nth_node_from_end.py)|
 |Adds two numbers represented by linkedln list|[PY](python/add-two-numbers-represented-by-linked-lists.py)||
 |Sum of nodes|[C++](c++/sum-of-nodes.cpp)||
 |Intersaction point in y shapped linked list|[C++](c++/intersaction-pooint-iny-shapped-linked-list.cpp)||
@@ -328,14 +329,13 @@ If you need more material like this, [nominate me as github start, to get help t
 |linked-list-length-even-or-odd|[C++](c++/linked-list-lenght-even-or-odd.cpp)||
 |Middle Element|[C++](c++/middle-element-linkedlist.cpp)||
 |Node at the given position|[C++](c++/node-at-given-pos-linked-list.cpp)||
-|Print linked list|[C++](c++/print-linked-list.cpp)|[Python](python/print-linked-list.py)|
 |Find sum of last N nodes|[C++](c++/sum-last-n-nodes.cpp)||
 |Circular Linked List|[C++](c++/circular-linked-list.cpp)||
 |Reverse a Linked List|[C++](c++/reverse_linked_list.cpp)||
 |Detect a loop|[C++](c++/detect_loop.cpp)||
 |Remove loop from Linked List|[C++](c++/remove-loop-from-linked-list.cpp)||
 |Check if a Linked LIst is Palindrome|[C++](c++/check-if-linked-list-is-palindrome.cpp)||
-| Find lenght of a loop |[C++](c++/find-lenght-of-loop.cpp)||
+|Find lenght of a loop |[C++](c++/find-lenght-of-loop.cpp)||
 |Occurrence of an integer in a linked list|[C++](c++/occurrence-of-an-integer-in-a-linked-list.cpp)||
 |Sort Linked list of 0s, 1s and 2|[C++](c++/sort-linked-list-of-0s-1s-2s.cpp)| [Pythons](python/sort-linked-list-of-0s-1s-2s.py) ||
 |Remove node without having reference of the head node|[C++](c++/delete-node-without-head-pointer.cpp.cpp)||
