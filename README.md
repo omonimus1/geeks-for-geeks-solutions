@@ -337,7 +337,7 @@ If you need more material like this, [nominate me as github start, to get help t
 |Check if a Linked LIst is Palindrome|[C++](c++/check-if-linked-list-is-palindrome.cpp)|
 | Find lenght of a loop |[C++](c++/find-lenght-of-loop.cpp)|
 |Occurrence of an integer in a linked list|[C++](c++/occurrence-of-an-integer-in-a-linked-list.cpp)|
-|Sort Linked list of 0s, 1s and 2|[C++](c++/sort-linked-list-of-0s-1s-2s.cpp)|
+|Sort Linked list of 0s, 1s and 2|[C++](c++/sort-linked-list-of-0s-1s-2s.cpp)| [Sort linked list of 0s, 1s and 2s](python/sort-linked-list-of-0s-1s-2s.py) |
 |Remove node without having reference of the head node|[C++](c++/delete-node-without-head-pointer.cpp.cpp)|
 
 
