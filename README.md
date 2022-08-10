@@ -115,6 +115,7 @@ If you need more material like this, [nominate me as github start, to get help t
 
 |    Name  |  Solution in C++ |  Python |
 |----------|:----------------:|:----------------:| 
+| Bitonic Point| |[Python](python/bitonic_point.py)|
 |Sum of Middle Elements of two sorted arrays| |[Python](python/sum_of_middle_element_of_sorted_arrays.py)|
 |Sum of array|[C++](c++/sum_of_array2.cpp) |   |
 |Frequency of array elements|[C++](c++/frequency_of_array_elements.cpp)| |
