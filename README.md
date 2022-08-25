@@ -283,6 +283,7 @@ If you need more material like this, [nominate me as github start, to get help t
 
 |    Name  |  Solution     | Python |
 |----------|:----------------:|:----------------:|
+| Fractional linked list||[Python](python/fractional-linked-list.py)|
 | Display linked list|[C++](c++/display-linked-list.cpp)|[Python](python/print-linked-list.py)|
 |Nth node from end of linked list| |[Python](python/nth_node_from_end.py)|
 |Adds two numbers represented by linkedln list|[PY](python/add-two-numbers-represented-by-linked-lists.py)||
@@ -330,7 +331,7 @@ If you need more material like this, [nominate me as github start, to get help t
 |Insert in sorted linked list|[C++](c++/insert-in-sorted-linked-list.cpp)||
 |linked-list-length-even-or-odd|[C++](c++/linked-list-lenght-even-or-odd.cpp)||
 |Middle Element|[C++](c++/middle-element-linkedlist.cpp)||
-|Node at the given position|[C++](c++/node-at-given-pos-linked-list.cpp)||
+|Node at the given position|[C++](c++/node-at-given-pos-linked-list.cpp)|[Python](python/node-at-given-position.py)|
 |Find sum of last N nodes|[C++](c++/sum-last-n-nodes.cpp)||
 |Circular Linked List|[C++](c++/circular-linked-list.cpp)||
 |Reverse a Linked List|[C++](c++/reverse_linked_list.cpp)||
