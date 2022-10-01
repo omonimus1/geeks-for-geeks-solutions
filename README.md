@@ -15,7 +15,8 @@ In this repository you will find:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-
+### Optimal Algo & Data Structure course in python
+- [Self placed algo & Data structures by geeksforgeeks](https://practice.geeksforgeeks.org/payments/Data-Structures-With-Python?utm_source=practice&utm_medium=course_list&utm_campaign=PRACTICE_ALL_COURSES_PAGE)
 
 ## Author
 * Davide Pollicino [GeeksForGeeks profile](https://auth.geeksforgeeks.org/user/davidepollicino/practice/).
