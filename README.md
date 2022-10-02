@@ -6,7 +6,7 @@ In this repository you will find:
 * Amazon SDE preparation solutions
 * [Solution of the must Do coding questions for Amazon, Microsoft, Adobe]()
 * [Solution of the 11 weeks ADS GeeksForGeeks workshop](DSA-workshop/README.md)
-
+* [Self placed course- python](https://practice.geeksforgeeks.org/batch/dsa-4)
 ## Get mentored by me
 <a href="https://mentorcruise.com/mentor/davidepollicino/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" width="240" alt="MentorCruise"> </a>
 
