@@ -26,31 +26,31 @@ In this repository you will find:
 
 ## Index of content
 
-1. [Algorithms and Data structures](#Algorithms-and-Data-structures)
-2. [Contribute](#Contribute)
-3. [Connect with me](#Connect)
-4. [Support me to get more](#Support)
+1. [Algorithms and Data structures](#algorithms-and-data-structures)
+2. [Contribute](#contribute)
+3. [Connect with me](#connect)
+4. [Support me to get more](#support)
 
 ## Algorithms and Data structures
 
-- [Programming foundamental](#Programming-foundamentals)
-- [Array](#Array-or-Vector)
-- [Vectors](#Array-or-Vector)
-- [Sorting](#Sorting)
-- [String](#Strings)
-- [Matrix](#Matrix)
-- [Linked List](#Linked-List)
-- [Stack](#Stack)
-- [Queue](#Queue-and-Dequeu)
-- [Set and Multiset](#Set)
-- [Map](#Map)
-- [Heap](#Heap)
-- [Search](#Search)
-- [Tree and BST](#Tree-and-Binary-Search-Tree)
-- [Graph](#Graph)
-- [Math and Bit Magic](#Math-and-BitMagic)
-- [Prime Numbers](#Prime-numbers)
-- [Recursion](#Recursion)
+- [Programming foundamental](#programming-foundamentals)
+- [Array](#array-or-vector)
+- [Vectors](#array-or-vector)
+- [Sorting](#sorting)
+- [String](#strings)
+- [Matrix](#matrix)
+- [Linked List](#linked-list)
+- [Stack](#stack)
+- [Queue](#queue-and-dequeu)
+- [Set and Multiset](#set)
+- [Map](#map)
+- [Heap](#heap)
+- [Search](#search)
+- [Tree and BST](#tree-and-binary-search-tree)
+- [Graph](#graph)
+- [Math and Bit Magic](#math-and-bitmagic)
+- [Prime Numbers](c++/prime-numbers-in-range.cpp)
+- [Recursion](#recursion)
 
 ## Programming foundamentals
 
