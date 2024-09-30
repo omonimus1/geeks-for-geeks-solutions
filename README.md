@@ -57,7 +57,8 @@ In this repository you will find:
 | Name                                              |                     Solution                     |
 | ------------------------------------------------- | :----------------------------------------------: |
 | Replace all 0' with 5                             |  [Python](python/replace_all_zero_with_five.py)  |
-| Strongesth neighbour                              |        [C++](c++/strongest-neighbour.cpp)        |
+| Strongesth neighbour                              |        [C++](c++/strongest-neighbour.cpp)        | 
+| Sum of first n terms                              |       [C++](c++/sum_of_first_n_terms.cpp)        |
 | Data types in Java                                |        [Java](java/data-types-java.java)         |
 | Larghest element in array                         |  [Python](python/larghest_element_in_array.py)   |
 | Start coding                                      |          [Java](java/start-coding.java)          |
