@@ -416,6 +416,11 @@ In this repository you will find:
 
 ||[C++](c++/.cpp)|
 
+## others
+| Name                                       |                        Solution                         |
+| ------------------------------------------ | :-----------------------------------------------------: |
+|  Shift left shift right                             |                [C++](c++/shift-right.cpp)                |
+
 ## Tree-and-Binary-Search-Tree
 
 | Name                                       |                        Solution                         |
