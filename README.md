@@ -283,7 +283,8 @@ In this repository you will find:
 | Given two strings, check if one is the anagram of another |                  [Java](java/Anagram.java)                   |                                              |
 | First and second smallest element                         |       [C++](c++/first-and-second-smallest-element.cpp)       |                                              |
 | Second largest                                           |       [C++](c++/second-largest.cpp)                           |         [Python](python/second-largest.py)   |
-
+| Second largest                                           |       [C++](c++/second-largest.cpp)                           |         [Python](python/second-largest.py)   |
+| Move all zeros to the end of array                      |       [C++](c++/move-all-zeros-to-the-end-of-array.cpp)      |           |
 ## Linked List
 
 | Name                                                  |                             Solution                             |                      Python                       |
