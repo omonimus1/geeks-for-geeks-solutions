@@ -1,5 +1,8 @@
 ![Geeks for Geeks](images/geeksforgeeks.png)
 
+[160 days coding challenge course](https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters)
+[360 coding challenge course](https://www.geeksforgeeks.org/batch/skill-up-dsa?tab=Chapters)
+
 # Geeks-for-geeks-solutions
 
 In this repository you will find:
@@ -279,8 +282,7 @@ In this repository you will find:
 | Reverse words of a given string                           |         [C++](c++/reverse-word-in-given-string.cpp)          |
 | Given two strings, check if one is the anagram of another |                  [Java](java/Anagram.java)                   |                                              |
 | First and second smallest element                         |       [C++](c++/first-and-second-smallest-element.cpp)       |                                              |
-
-| |[C++](c++/.cpp)|
+| Second largest                                           |       [C++](c++/second-largest.cpp)                           |         [Python](python/second-largest.py)   |
 
 ## Linked List
 
