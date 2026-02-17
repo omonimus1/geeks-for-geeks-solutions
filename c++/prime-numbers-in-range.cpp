@@ -15,7 +15,6 @@ bool isPrime(unsigned long int n)
     }
     return true; 
 }
-
 void solve_test()
 {
     unsigned long int a , b, number; 
